@@ -1,0 +1,5016 @@
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/Debian) (preloaded format=xelatex 2023.12.3)  3 DEC 2023 20:04
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**"/workspaces/deepchem.github.io/new-website/utils/tutorials/ipynb-notebooks/T
+raining a Normalizing Flow on QM9.ipynb" -quite
+
+(/workspaces/deepchem.github.io/new-website/utils/tutorials/ipynb-notebooks/Tra
+ining a Normalizing Flow on QM9.ipynb
+LaTeX2e <2020-02-02> patch level 2
+L3 programming layer <2020-02-14>
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2   "
+       nbformat": 4,
+? 
+Missing character: There is no " in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no " in font nullfont!
+Missing character: There is no : in font nullfont!
+Missing character: There is no 4 in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no " in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+! Missing $ inserted.
+<inserted text> 
+                $
+l.3   "nbformat_
+                minor": 2,
+? 
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 3.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 3.
+! Double subscript.
+l.6       "name": "Copy of Training_a_
+                                      Normalizing_Flow_on_QM9_2.ipynb",
+? 
+! You can't use `macro parameter character #' in math mode.
+l.26         "#
+                Tutorial Molecular Machine Learinig Tutorial 7 : Training a ...
+
+? 
+! Undefined control sequence.
+l.26 ...l 7 : Training a Normalizing Flow on QM9\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.27 ...| [Twitter](https://twitter.com/nc_frey)\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.28         "\n
+                ",
+? 
+! Undefined control sequence.
+l.29         "\n
+                ",
+? 
+! Undefined control sequence.
+l.30 ...ence](https://arxiv.org/abs/2201.12419).\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.31         "\n
+                ",
+? 
+
+LaTeX Warning: Command \" invalid in math mode on input line 32.
+
+LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 3
+2.
+(/usr/share/texmf/tex/latex/lm/ot1lmr.fd
+File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+
+LaTeX Warning: Command \" invalid in math mode on input line 32.
+
+LaTeX Font Info:    Trying to load font information for +lmr on input line 32.
+LaTeX Font Info:    No file lmr.fd. on input line 32.
+LaTeX Font Info:    Trying to load font information for +cmr on input line 32.
+LaTeX Font Info:    No file cmr.fd. on input line 32.
+
+LaTeX Font Warning: Font shape `/lmr/m/n' undefined
+(Font)              using `/cmr/m/n' instead on input line 32.
+
+
+LaTeX Font Warning: Font shape `/cmr/m/n' undefined
+(Font)              using `/cmr/m/n' instead on input line 32.
+
+! Corrupted NFSS tables.
+wrong@fontshape ...message {Corrupted NFSS tables}
+                                                  error@fontshape else let f...
+l.32 ...are completely invertible, there is no \"l
+                                                  atent space\" in the sense...
+
+? 
+
+LaTeX Font Warning: Font shape `/cmr/m/n' undefined
+(Font)              using `OT1/cmr/m/n' instead on input line 32.
+
+! Please use \mathaccent for accents in math mode.
+\add@accent ... \let \ignorespaces \relax \accent 
+                                                  #1 #2\egroup \spacefactor ...
+l.32 ...are completely invertible, there is no \"l
+                                                  atent space\" in the sense...
+
+? 
+! Missing { inserted.
+<to be read again> 
+                   \edef 
+l.32 ...are completely invertible, there is no \"l
+                                                  atent space\" in the sense...
+
+? 
+
+LaTeX Font Warning: Font shape `/lmr/m/n' undefined
+(Font)              using `/cmr/m/n' instead on input line 32.
+
+! You can't use `\spacefactor' in math mode.
+\add@accent ... \accent #1 #2\egroup \spacefactor 
+                                                  \accent@spacefactor 
+l.32 ...are completely invertible, there is no \"l
+                                                  atent space\" in the sense...
+
+? 
+
+LaTeX Warning: Command \" invalid in math mode on input line 32.
+
+
+LaTeX Warning: Command \" invalid in math mode on input line 32.
+
+! Please use \mathaccent for accents in math mode.
+\add@accent ... \let \ignorespaces \relax \accent 
+                                                  #1 #2\egroup \spacefactor ...
+l.32 ...invertible, there is no \"latent space\" i
+                                                  n the sense used when refe...
+
+? 
+! Missing { inserted.
+<to be read again> 
+                   \begingroup 
+l.32 ...invertible, there is no \"latent space\" i
+                                                  n the sense used when refe...
+
+? 
+
+LaTeX Warning: Command \i invalid in math mode on input line 32.
+
+! You can't use `\spacefactor' in math mode.
+\add@accent ... \accent #1 #2\egroup \spacefactor 
+                                                  \accent@spacefactor 
+l.32 ...invertible, there is no \"latent space\" i
+                                                  n the sense used when refe...
+
+? 
+! Undefined control sequence.
+l.32 ...](https://arxiv.org/pdf/1912.02762.pdf).\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.33         "\n
+                ",
+? 
+! Undefined control sequence.
+l.34         "\n
+                ",
+? 
+! Undefined control sequence.
+l.36         "\n
+                ",
+? 
+! Undefined control sequence.
+l.37         "\n
+                ",
+? 
+! You can't use `macro parameter character #' in math mode.
+l.38         "#
+               # Colab\n",
+? 
+! You can't use `macro parameter character #' in math mode.
+l.38         "##
+                 Colab\n",
+? 
+! Undefined control sequence.
+l.38         "## Colab\n
+                        ",
+? 
+! Undefined control sequence.
+l.39         "\n
+                ",
+? 
+! Undefined control sequence.
+l.40 ...n colab, you can use the following link.\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.41         "\n
+                ",
+? 
+! Double subscript.
+l.42 ...b/master/examples/tutorials/23_Training_a_
+                                                  Normalizing_Flow_on_QM9.ip...
+
+? 
+! Undefined control sequence.
+l.42 ...raining_a_Normalizing_Flow_on_QM9.ipynb)\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.43         "\n
+                ",
+? 
+! You can't use `macro parameter character #' in math mode.
+l.44         "#
+               # Setup\n",
+? 
+! You can't use `macro parameter character #' in math mode.
+l.44         "##
+                 Setup\n",
+? 
+! Undefined control sequence.
+l.44         "## Setup\n
+                        ",
+? 
+! Undefined control sequence.
+l.45         "\n
+                ",
+? 
+! Undefined control sequence.
+l.56         "!pip install --pre deepchem\n
+                                           ",
+? 
+! Undefined control sequence.
+l.57         "import deepchem\n
+                               ",
+? 
+! Missing { inserted.
+<to be read again> 
+                   _
+l.58         "deepchem.__
+                         version__"
+? 
+! Missing { inserted.
+<to be read again> 
+                   _
+l.58         "deepchem.__version__
+                                  "
+? 
+! Undefined control sequence.
+l.65 ...ocal/lib/python3.7/dist-packages (2.6.1)\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.66 ....7/dist-packages (from deepchem) (1.3.5)\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.67 ....7/dist-packages (from deepchem) (1.0.2)\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.68 ...7/dist-packages (from deepchem) (1.21.5)\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.69 ....7/dist-packages (from deepchem) (1.4.1)\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.70 ....7/dist-packages (from deepchem) (1.1.0)\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.71 ...st-packages (from deepchem) (2021.9.5.1)\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.72 ...ackages (from pandas->deepchem) (2018.9)\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.73 ...packages (from pandas->deepchem) (2.8.2)\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.74 ...eutil>=2.7.3->pandas->deepchem) (1.15.0)\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.75 ...ages (from rdkit-pypi->deepchem) (7.1.2)\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.76 ...es (from scikit-learn->deepchem) (3.1.0)\n
+                                                  "
+? 
+! Undefined control sequence.
+l.122 ...cal/lib/python3.7/dist-packages (2.0.0)\n
+                                                  "
+? 
+! Undefined control sequence.
+l.138         "import numpy as np\n
+                                   ",
+? 
+! Undefined control sequence.
+l.139         "import matplotlib.pyplot as plt\n
+                                                ",
+? 
+! Undefined control sequence.
+l.140         "import seaborn as sns\n
+                                      ",
+? 
+! Undefined control sequence.
+l.141         "import pandas as pd\n
+                                    ",
+? 
+! Undefined control sequence.
+l.142         "import os\n
+                          ",
+? 
+! Undefined control sequence.
+l.143         "\n
+                 ",
+? 
+! Undefined control sequence.
+l.144         "import deepchem as dc\n
+                                      ",
+? 
+! Undefined control sequence.
+l.145 ...t NormalizingFlow, NormalizingFlowModel\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.146 ... deepchem.models.optimizers import Adam\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.147 ..."from deepchem.data import NumpyDataset\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.148 ...m deepchem.splits import RandomSplitter\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.149 ..."from deepchem.molnet import load_tox21\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.150         "\n
+                 ",
+? 
+! Undefined control sequence.
+l.151         "import rdkit\n
+                             ",
+? 
+! Undefined control sequence.
+l.152         "from rdkit import Chem\n
+                                       ",
+? 
+! Undefined control sequence.
+l.153 ...m rdkit.Chem.Draw import IPythonConsole\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.154         "from rdkit.Chem import Draw\n
+                                            ",
+? 
+! Undefined control sequence.
+l.155         "\n
+                 ",
+? 
+! Undefined control sequence.
+l.156 ...m IPython.display import Image, display\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.157         "\n
+                 ",
+? 
+! Undefined control sequence.
+l.158         "import selfies as sf\n
+                                     ",
+? 
+! Undefined control sequence.
+l.159         "\n
+                 ",
+? 
+! Undefined control sequence.
+l.160         "import tensorflow as tf\n
+                                        ",
+? 
+! Undefined control sequence.
+l.161 ...  "import tensorflow_probability as tfp\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.162         "\n
+                 ",
+? 
+! Undefined control sequence.
+l.163         "tfd = tfp.distributions\n
+                                        ",
+? 
+! Undefined control sequence.
+l.164         "tfb = tfp.bijectors\n
+                                    ",
+? 
+! Undefined control sequence.
+l.165         "tfk = tf.keras\n
+                               ",
+? 
+! Undefined control sequence.
+l.166         "\n
+                 ",
+? 
+! You can't use `macro parameter character #' in math mode.
+l.187         "#
+                 Download from MolNet\n",
+? 
+! Undefined control sequence.
+l.187         "# Download from MolNet\n
+                                       ",
+? 
+! Undefined control sequence.
+l.188 ...= dc.molnet.load_qm9(featurizer='ECFP')\n
+                                                  ",
+? 
+! You can't use `macro parameter character #' in math mode.
+l.210 ...edocs.io/en/latest/selfies_examples.html#
+                                                  Advanced-Usage)."
+? 
+! You can't use `macro parameter character #' in math mode.
+l.220         "sf.set_semantic_constraints()  #
+                                                reset constraints\n",
+? 
+! Undefined control sequence.
+l.220 ...ntic_constraints()  # reset constraints\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.221 ...traints = sf.get_semantic_constraints()\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.222         "constraints['?'] = 3\n
+                                     ",
+? 
+! Undefined control sequence.
+l.223         "\n
+                 ",
+? 
+! Undefined control sequence.
+l.224 ...f.set_semantic_constraints(constraints)\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.232               "{'?': 3,\n
+                               ",
+? 
+! Undefined control sequence.
+l.233               " 'B': 3,\n
+                               ",
+? 
+! Undefined control sequence.
+l.234               " 'B+1': 2,\n
+                                 ",
+? 
+! Undefined control sequence.
+l.235               " 'B-1': 4,\n
+                                 ",
+? 
+! Undefined control sequence.
+l.236               " 'Br': 1,\n
+                                ",
+? 
+! Undefined control sequence.
+l.237               " 'C': 4,\n
+                               ",
+? 
+! Undefined control sequence.
+l.238               " 'C+1': 5,\n
+                                 ",
+? 
+! Undefined control sequence.
+l.239               " 'C-1': 3,\n
+                                 ",
+? 
+! Undefined control sequence.
+l.240               " 'Cl': 1,\n
+                                ",
+? 
+! Undefined control sequence.
+l.241               " 'F': 1,\n
+                               ",
+? 
+! Undefined control sequence.
+l.242               " 'H': 1,\n
+                               ",
+? 
+! Undefined control sequence.
+l.243               " 'I': 1,\n
+                               ",
+? 
+! Undefined control sequence.
+l.244               " 'N': 3,\n
+                               ",
+? 
+! Undefined control sequence.
+l.245               " 'N+1': 4,\n
+                                 ",
+? 
+! Undefined control sequence.
+l.246               " 'N-1': 2,\n
+                                 ",
+? 
+! Undefined control sequence.
+l.247               " 'O': 2,\n
+                               ",
+? 
+! Undefined control sequence.
+l.248               " 'O+1': 3,\n
+                                 ",
+? 
+! Undefined control sequence.
+l.249               " 'O-1': 1,\n
+                                 ",
+? 
+! Undefined control sequence.
+l.250               " 'P': 5,\n
+                               ",
+? 
+! Undefined control sequence.
+l.251               " 'P+1': 6,\n
+                                 ",
+? 
+! Undefined control sequence.
+l.252               " 'P-1': 4,\n
+                                 ",
+? 
+! Undefined control sequence.
+l.253               " 'S': 6,\n
+                               ",
+? 
+! Undefined control sequence.
+l.254               " 'S+1': 7,\n
+                                 ",
+? 
+! Undefined control sequence.
+l.274         "def preprocess_smiles(smiles):\n
+                                               ",
+? 
+! Undefined control sequence.
+l.275         "  return sf.encoder(smiles)  \n
+                                              ",
+? 
+! Undefined control sequence.
+l.276         "\n
+                 ",
+? 
+! Undefined control sequence.
+l.277         "def keys_int(symbol_to_int):\n
+                                             ",
+? 
+! Undefined control sequence.
+l.278         "  d={}\n
+                       ",
+? 
+! Undefined control sequence.
+l.279         "  i=0\n
+                      ",
+? 
+! Undefined control sequence.
+l.280 ...    "  for key in symbol_to_int.keys():\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.281         "    d[i]=key\n
+                             ",
+? 
+! Undefined control sequence.
+l.282         "    i+=1\n
+                         ",
+? 
+! Undefined control sequence.
+l.283         "  return d\n
+                           ",
+? 
+! Undefined control sequence.
+l.284         "\n
+                 ",
+? 
+! Undefined control sequence.
+l.305 ... data['smiles'].apply(lambda x: len(x))\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.313               "\n
+                       ",
+? 
+
+LaTeX Warning: Command \" invalid in math mode on input line 314.
+
+! Please use \mathaccent for accents in math mode.
+\add@accent ... \let \ignorespaces \relax \accent 
+                                                  #1 #2\egroup \spacefactor ...
+l.314               "  <div id=\"d
+                                  f-ca3ad90a-e71d-4d08-bda4-4e88bf841ba9\">\n",
+
+? 
+! You can't use `\spacefactor' in math mode.
+\add@accent ... \accent #1 #2\egroup \spacefactor 
+                                                  \accent@spacefactor 
+l.314               "  <div id=\"d
+                                  f-ca3ad90a-e71d-4d08-bda4-4e88bf841ba9\">\n",
+
+? 
+
+LaTeX Warning: Command \" invalid in math mode on input line 314.
+
+! Please use \mathaccent for accents in math mode.
+\add@accent ... \let \ignorespaces \relax \accent 
+                                                  #1 #2\egroup \spacefactor ...
+l.314 ...f-ca3ad90a-e71d-4d08-bda4-4e88bf841ba9\">
+                                                  \n",
+? 
+! You can't use `\spacefactor' in math mode.
+\add@accent ... \accent #1 #2\egroup \spacefactor 
+                                                  \accent@spacefactor 
+l.314 ...f-ca3ad90a-e71d-4d08-bda4-4e88bf841ba9\">
+                                                  \n",
+? 
+! Undefined control sequence.
+l.314 ...ca3ad90a-e71d-4d08-bda4-4e88bf841ba9\">\n
+                                                  ",
+? 
+
+LaTeX Warning: Command \" invalid in math mode on input line 315.
+
+! Please use \mathaccent for accents in math mode.
+\add@accent ... \let \ignorespaces \relax \accent 
+                                                  #1 #2\egroup \spacefactor ...
+l.315               "    <div class=\"c
+                                       olab-df-container\">\n",
+? 
+! You can't use `\spacefactor' in math mode.
+\add@accent ... \accent #1 #2\egroup \spacefactor 
+                                                  \accent@spacefactor 
+l.315               "    <div class=\"c
+                                       olab-df-container\">\n",
+? 
+
+LaTeX Warning: Command \" invalid in math mode on input line 315.
+
+! Please use \mathaccent for accents in math mode.
+\add@accent ... \let \ignorespaces \relax \accent 
+                                                  #1 #2\egroup \spacefactor ...
+l.315 ...  "    <div class=\"colab-df-container\">
+                                                  \n",
+? 
+! You can't use `\spacefactor' in math mode.
+\add@accent ... \accent #1 #2\egroup \spacefactor 
+                                                  \accent@spacefactor 
+l.315 ...  "    <div class=\"colab-df-container\">
+                                                  \n",
+? 
+! Undefined control sequence.
+l.315 ..."    <div class=\"colab-df-container\">\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.316               "      <div>\n
+                                  ",
+? 
+! Undefined control sequence.
+l.317               "<style scoped>\n
+                                     ",
+? 
+! Undefined control sequence.
+l.318 ...  .dataframe tbody tr th:only-of-type {\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.319 ...       "        vertical-align: middle;\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.320               "    }\n
+                            ",
+? 
+! Undefined control sequence.
+l.321               "\n
+                       ",
+? 
+! Undefined control sequence.
+l.322 ...          "    .dataframe tbody tr th {\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.323 ...          "        vertical-align: top;\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.324               "    }\n
+                            ",
+? 
+! Undefined control sequence.
+l.325               "\n
+                       ",
+? 
+! Undefined control sequence.
+l.326               "    .dataframe thead th {\n
+                                                ",
+? 
+! Undefined control sequence.
+l.327               "        text-align: right;\n
+                                                 ",
+? 
+! Undefined control sequence.
+l.328               "    }\n
+                            ",
+? 
+! Undefined control sequence.
+l.329               "</style>\n
+                               ",
+? 
+
+LaTeX Warning: Command \" invalid in math mode on input line 330.
+
+! Please use \mathaccent for accents in math mode.
+\add@accent ... \let \ignorespaces \relax \accent 
+                                                  #1 #2\egroup \spacefactor ...
+l.330               "<table border=\"1
+                                      \" class=\"dataframe\">\n",
+? 
+! You can't use `\spacefactor' in math mode.
+\add@accent ... \accent #1 #2\egroup \spacefactor 
+                                                  \accent@spacefactor 
+l.330               "<table border=\"1
+                                      \" class=\"dataframe\">\n",
+? 
+
+LaTeX Warning: Command \" invalid in math mode on input line 330.
+
+! Please use \mathaccent for accents in math mode.
+\add@accent ... \let \ignorespaces \relax \accent 
+                                                  #1 #2\egroup \spacefactor ...
+l.330               "<table border=\"1\" c
+                                          lass=\"dataframe\">\n",
+? 
+! You can't use `\spacefactor' in math mode.
+\add@accent ... \accent #1 #2\egroup \spacefactor 
+                                                  \accent@spacefactor 
+l.330               "<table border=\"1\" c
+                                          lass=\"dataframe\">\n",
+? 
+
+LaTeX Warning: Command \" invalid in math mode on input line 330.
+
+! Please use \mathaccent for accents in math mode.
+\add@accent ... \let \ignorespaces \relax \accent 
+                                                  #1 #2\egroup \spacefactor ...
+l.330               "<table border=\"1\" class=\"d
+                                                  ataframe\">\n",
+? 
+! You can't use `\spacefactor' in math mode.
+\add@accent ... \accent #1 #2\egroup \spacefactor 
+                                                  \accent@spacefactor 
+l.330               "<table border=\"1\" class=\"d
+                                                  ataframe\">\n",
+? 
+
+LaTeX Warning: Command \" invalid in math mode on input line 330.
+
+! Please use \mathaccent for accents in math mode.
+\add@accent ... \let \ignorespaces \relax \accent 
+                                                  #1 #2\egroup \spacefactor ...
+l.330 ..."<table border=\"1\" class=\"dataframe\">
+                                                  \n",
+? 
+! You can't use `\spacefactor' in math mode.
+\add@accent ... \accent #1 #2\egroup \spacefactor 
+                                                  \accent@spacefactor 
+l.330 ..."<table border=\"1\" class=\"dataframe\">
+                                                  \n",
+? 
+! Undefined control sequence.
+l.330 ...table border=\"1\" class=\"dataframe\">\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.331               "  <thead>\n
+                                ",
+? 
+
+LaTeX Warning: Command \" invalid in math mode on input line 332.
+
+! Please use \mathaccent for accents in math mode.
+\add@accent ... \let \ignorespaces \relax \accent 
+                                                  #1 #2\egroup \spacefactor ...
+l.332               "    <tr style=\"t
+                                      ext-align: right;\">\n",
+? 
+! You can't use `\spacefactor' in math mode.
+\add@accent ... \accent #1 #2\egroup \spacefactor 
+                                                  \accent@spacefactor 
+l.332               "    <tr style=\"t
+                                      ext-align: right;\">\n",
+? 
+
+LaTeX Warning: Command \" invalid in math mode on input line 332.
+
+! Please use \mathaccent for accents in math mode.
+\add@accent ... \let \ignorespaces \relax \accent 
+                                                  #1 #2\egroup \spacefactor ...
+l.332 ...   "    <tr style=\"text-align: right;\">
+                                                  \n",
+? 
+! You can't use `\spacefactor' in math mode.
+\add@accent ... \accent #1 #2\egroup \spacefactor 
+                                                  \accent@spacefactor 
+l.332 ...   "    <tr style=\"text-align: right;\">
+                                                  \n",
+? 
+! Undefined control sequence.
+l.332 ... "    <tr style=\"text-align: right;\">\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.333               "      <th></th>\n
+                                      ",
+? 
+! Undefined control sequence.
+l.334               "      <th>smiles</th>\n
+                                            ",
+? 
+! Undefined control sequence.
+l.335               "      <th>selfies</th>\n
+                                             ",
+? 
+! Undefined control sequence.
+l.336               "      <th>len</th>\n
+                                         ",
+? 
+! Undefined control sequence.
+l.337               "    </tr>\n
+                                ",
+? 
+! Undefined control sequence.
+l.338               "  </thead>\n
+                                 ",
+? 
+! Undefined control sequence.
+l.339               "  <tbody>\n
+                                ",
+? 
+! Undefined control sequence.
+l.340               "    <tr>\n
+                               ",
+? 
+! Undefined control sequence.
+l.341               "      <th>6728</th>\n
+                                          ",
+? 
+! Undefined control sequence.
+l.342 ...        "      <td>[H]c1nnc([H])o1</td>\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.343 ...C][Branch1][C][H][O][Ring1][=Br...</td>\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.344               "      <td>15</td>\n
+                                        ",
+? 
+! Undefined control sequence.
+l.345               "    </tr>\n
+                                ",
+? 
+! Undefined control sequence.
+l.346               "    <tr>\n
+                               ",
+? 
+! Undefined control sequence.
+l.347               "      <th>72803</th>\n
+                                           ",
+? 
+! Undefined control sequence.
+l.348 ...       "      <td>[H]c1nnnc([H])n1</td>\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.349 ...N][C][Branch1][C][H][=N][Ring1]...</td>\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.350               "      <td>16</td>\n
+                                        ",
+? 
+! Undefined control sequence.
+l.351               "    </tr>\n
+                                ",
+? 
+! Undefined control sequence.
+l.352               "    <tr>\n
+                               ",
+? 
+! Undefined control sequence.
+l.353               "      <th>97670</th>\n
+                                           ",
+? 
+! Undefined control sequence.
+l.354 ...     "      <td>[H]c1onnc1C(F)(F)F</td>\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.355 ...][C][=Ring1][Branch1][C][Branch...</td>\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.356               "      <td>18</td>\n
+                                        ",
+? 
+! Undefined control sequence.
+l.357               "    </tr>\n
+                                ",
+? 
+! Undefined control sequence.
+l.358               "    <tr>\n
+                               ",
+? 
+! Undefined control sequence.
+l.359               "      <th>25487</th>\n
+                                           ",
+? 
+! You can't use `macro parameter character #' in math mode.
+l.360               "      <td>[H]n1nnc(C#
+                                          CC#N)n1</td>\n",
+? 
+! You can't use `macro parameter character #' in math mode.
+l.360               "      <td>[H]n1nnc(C#CC#
+                                             N)n1</td>\n",
+? 
+! Undefined control sequence.
+l.360 ...     "      <td>[H]n1nnc(C#CC#N)n1</td>\n
+                                                  ",
+? 
+! You can't use `macro parameter character #' in math mode.
+l.361 ...d>[H][N][N][=N][C][Branch1][Branch1][C][#
+                                                  C][C][#...</td>\n",
+? 
+! You can't use `macro parameter character #' in math mode.
+l.361 ...][N][=N][C][Branch1][Branch1][C][#C][C][#
+                                                  ...</td>\n",
+? 
+! Undefined control sequence.
+l.361 ...][Branch1][Branch1][C][#C][C][#...</td>\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.362               "      <td>18</td>\n
+                                        ",
+? 
+! Undefined control sequence.
+l.363               "    </tr>\n
+                                ",
+? 
+! Undefined control sequence.
+l.364               "    <tr>\n
+                               ",
+? 
+! Undefined control sequence.
+l.365               "      <th>32004</th>\n
+                                           ",
+? 
+! You can't use `macro parameter character #' in math mode.
+l.366               "      <td>[H]C#
+                                    Cc1nnc(F)nc1[H]</td>\n",
+? 
+! Undefined control sequence.
+l.366 ...   "      <td>[H]C#Cc1nnc(F)nc1[H]</td>\n
+                                                  ",
+? 
+! You can't use `macro parameter character #' in math mode.
+l.367               "      <td>[H][C][#
+                                       C][C][=N][N][=C][Branch1][C][F][N][=C...
+
+? 
+! Undefined control sequence.
+l.367 ...N][N][=C][Branch1][C][F][N][=C]...</td>\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.368               "      <td>20</td>\n
+                                        ",
+? 
+! Undefined control sequence.
+l.369               "    </tr>\n
+                                ",
+? 
+! Undefined control sequence.
+l.370               "  </tbody>\n
+                                 ",
+? 
+! Undefined control sequence.
+l.371               "</table>\n
+                               ",
+? 
+! Undefined control sequence.
+l.372               "</div>\n
+                             ",
+? 
+
+LaTeX Warning: Command \" invalid in math mode on input line 373.
+
+! Please use \mathaccent for accents in math mode.
+\add@accent ... \let \ignorespaces \relax \accent 
+                                                  #1 #2\egroup \spacefactor ...
+l.373               "      <button class=\"c
+                                            olab-df-convert\" onclick=\"conv...
+
+? 
+! You can't use `\spacefactor' in math mode.
+\add@accent ... \accent #1 #2\egroup \spacefactor 
+                                                  \accent@spacefactor 
+l.373               "      <button class=\"c
+                                            olab-df-convert\" onclick=\"conv...
+
+? 
+
+LaTeX Warning: Command \" invalid in math mode on input line 373.
+
+! Please use \mathaccent for accents in math mode.
+\add@accent ... \let \ignorespaces \relax \accent 
+                                                  #1 #2\egroup \spacefactor ...
+l.373 ...     <button class=\"colab-df-convert\" o
+                                                  nclick=\"convertToInteract...
+
+? 
+! You can't use `\spacefactor' in math mode.
+\add@accent ... \accent #1 #2\egroup \spacefactor 
+                                                  \accent@spacefactor 
+l.373 ...     <button class=\"colab-df-convert\" o
+                                                  nclick=\"convertToInteract...
+
+? 
+
+LaTeX Warning: Command \" invalid in math mode on input line 373.
+
+! Please use \mathaccent for accents in math mode.
+\add@accent ... \let \ignorespaces \relax \accent 
+                                                  #1 #2\egroup \spacefactor ...
+l.373 ...on class=\"colab-df-convert\" onclick=\"c
+                                                  onvertToInteractive('df-ca...
+
+? 
+! You can't use `\spacefactor' in math mode.
+\add@accent ... \accent #1 #2\egroup \spacefactor 
+                                                  \accent@spacefactor 
+l.373 ...on class=\"colab-df-convert\" onclick=\"c
+                                                  onvertToInteractive('df-ca...
+
+? 
+
+LaTeX Warning: Command \" invalid in math mode on input line 373.
+
+! Undefined control sequence.
+<argument> \n 
+              
+l.373 ...a3ad90a-e71d-4d08-bda4-4e88bf841ba9')\"\n
+                                                  ",
+? 
+! Please use \mathaccent for accents in math mode.
+\add@accent ... \let \ignorespaces \relax \accent 
+                                                  #1 #2\egroup \spacefactor ...
+l.373 ...a3ad90a-e71d-4d08-bda4-4e88bf841ba9')\"\n
+                                                  ",
+? 
+! Undefined control sequence.
+<argument> \n 
+              
+l.373 ...a3ad90a-e71d-4d08-bda4-4e88bf841ba9')\"\n
+                                                  ",
+? 
+! Missing { inserted.
+<to be read again> 
+                   \egroup 
+l.373 ...a3ad90a-e71d-4d08-bda4-4e88bf841ba9')\"\n
+                                                  ",
+? 
+! You can't use `\spacefactor' in math mode.
+\add@accent ... \accent #1 #2\egroup \spacefactor 
+                                                  \accent@spacefactor 
+l.373 ...a3ad90a-e71d-4d08-bda4-4e88bf841ba9')\"\n
+                                                  ",
+? 
+
+LaTeX Warning: Command \" invalid in math mode on input line 374.
+
+! Please use \mathaccent for accents in math mode.
+\add@accent ... \let \ignorespaces \relax \accent 
+                                                  #1 #2\egroup \spacefactor ...
+l.374               "              title=\"C
+                                            onvert this dataframe to an inte...
+
+? 
+! You can't use `\spacefactor' in math mode.
+\add@accent ... \accent #1 #2\egroup \spacefactor 
+                                                  \accent@spacefactor 
+l.374               "              title=\"C
+                                            onvert this dataframe to an inte...
+
+? 
+
+LaTeX Warning: Command \" invalid in math mode on input line 374.
+
+! Undefined control sequence.
+<argument> \n 
+              
+l.374 ...is dataframe to an interactive table.\"\n
+                                                  ",
+? 
+! Please use \mathaccent for accents in math mode.
+\add@accent ... \let \ignorespaces \relax \accent 
+                                                  #1 #2\egroup \spacefactor ...
+l.374 ...is dataframe to an interactive table.\"\n
+                                                  ",
+? 
+! Undefined control sequence.
+<argument> \n 
+              
+l.374 ...is dataframe to an interactive table.\"\n
+                                                  ",
+? 
+! Missing { inserted.
+<to be read again> 
+                   \egroup 
+l.374 ...is dataframe to an interactive table.\"\n
+                                                  ",
+? 
+! You can't use `\spacefactor' in math mode.
+\add@accent ... \accent #1 #2\egroup \spacefactor 
+                                                  \accent@spacefactor 
+l.374 ...is dataframe to an interactive table.\"\n
+                                                  ",
+? 
+
+LaTeX Warning: Command \" invalid in math mode on input line 375.
+
+! Please use \mathaccent for accents in math mode.
+\add@accent ... \let \ignorespaces \relax \accent 
+                                                  #1 #2\egroup \spacefactor ...
+l.375               "              style=\"d
+                                            isplay:none;\">\n",
+? 
+! You can't use `\spacefactor' in math mode.
+\add@accent ... \accent #1 #2\egroup \spacefactor 
+                                                  \accent@spacefactor 
+l.375               "              style=\"d
+                                            isplay:none;\">\n",
+? 
+
+LaTeX Warning: Command \" invalid in math mode on input line 375.
+
+! Please use \mathaccent for accents in math mode.
+\add@accent ... \let \ignorespaces \relax \accent 
+                                                  #1 #2\egroup \spacefactor ...
+l.375 ...  "              style=\"display:none;\">
+                                                  \n",
+? 
+! You can't use `\spacefactor' in math mode.
+\add@accent ... \accent #1 #2\egroup \spacefactor 
+                                                  \accent@spacefactor 
+l.375 ...  "              style=\"display:none;\">
+                                                  \n",
+? 
+! Undefined control sequence.
+l.375 ..."              style=\"display:none;\">\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.376               "        \n
+                               ",
+? 
+
+LaTeX Warning: Command \" invalid in math mode on input line 377.
+
+! Please use \mathaccent for accents in math mode.
+\add@accent ... \let \ignorespaces \relax \accent 
+                                                  #1 #2\egroup \spacefactor ...
+l.377               "  <svg xmlns=\"h
+                                     ttp://www.w3.org/2000/svg\" height=\"24...
+
+? 
+! You can't use `\spacefactor' in math mode.
+\add@accent ... \accent #1 #2\egroup \spacefactor 
+                                                  \accent@spacefactor 
+l.377               "  <svg xmlns=\"h
+                                     ttp://www.w3.org/2000/svg\" height=\"24...
+
+? 
+
+LaTeX Warning: Command \" invalid in math mode on input line 377.
+
+! Please use \mathaccent for accents in math mode.
+\add@accent ... \let \ignorespaces \relax \accent 
+                                                  #1 #2\egroup \spacefactor ...
+l.377 ...vg xmlns=\"http://www.w3.org/2000/svg\" h
+                                                  eight=\"24px\"viewBox=\"0 ...
+
+? 
+! You can't use `\spacefactor' in math mode.
+\add@accent ... \accent #1 #2\egroup \spacefactor 
+                                                  \accent@spacefactor 
+l.377 ...vg xmlns=\"http://www.w3.org/2000/svg\" h
+                                                  eight=\"24px\"viewBox=\"0 ...
+
+? 
+
+LaTeX Warning: Command \" invalid in math mode on input line 377.
+
+! Please use \mathaccent for accents in math mode.
+\add@accent ... \let \ignorespaces \relax \accent 
+                                                  #1 #2\egroup \spacefactor ...
+l.377 ...\"http://www.w3.org/2000/svg\" height=\"2
+                                                  4px\"viewBox=\"0 0 24 24\"...
+
+? 
+! You can't use `\spacefactor' in math mode.
+\add@accent ... \accent #1 #2\egroup \spacefactor 
+                                                  \accent@spacefactor 
+l.377 ...\"http://www.w3.org/2000/svg\" height=\"2
+                                                  4px\"viewBox=\"0 0 24 24\"...
+
+? 
+
+LaTeX Warning: Command \" invalid in math mode on input line 377.
+
+! Please use \mathaccent for accents in math mode.
+\add@accent ... \let \ignorespaces \relax \accent 
+                                                  #1 #2\egroup \spacefactor ...
+l.377 ...://www.w3.org/2000/svg\" height=\"24px\"v
+                                                  iewBox=\"0 0 24 24\"\n",
+? 
+! You can't use `\spacefactor' in math mode.
+\add@accent ... \accent #1 #2\egroup \spacefactor 
+                                                  \accent@spacefactor 
+l.377 ...://www.w3.org/2000/svg\" height=\"24px\"v
+                                                  iewBox=\"0 0 24 24\"\n",
+? 
+
+LaTeX Warning: Command \" invalid in math mode on input line 377.
+
+! Please use \mathaccent for accents in math mode.
+\add@accent ... \let \ignorespaces \relax \accent 
+                                                  #1 #2\egroup \spacefactor ...
+l.377 ...org/2000/svg\" height=\"24px\"viewBox=\"0
+                                                   0 24 24\"\n",
+? 
+! You can't use `\spacefactor' in math mode.
+\add@accent ... \accent #1 #2\egroup \spacefactor 
+                                                  \accent@spacefactor 
+l.377 ...org/2000/svg\" height=\"24px\"viewBox=\"0
+                                                   0 24 24\"\n",
+? 
+
+LaTeX Warning: Command \" invalid in math mode on input line 377.
+
+! Undefined control sequence.
+<argument> \n 
+              
+l.377 ...\" height=\"24px\"viewBox=\"0 0 24 24\"\n
+                                                  ",
+? 
+! Please use \mathaccent for accents in math mode.
+\add@accent ... \let \ignorespaces \relax \accent 
+                                                  #1 #2\egroup \spacefactor ...
+l.377 ...\" height=\"24px\"viewBox=\"0 0 24 24\"\n
+                                                  ",
+? 
+! Undefined control sequence.
+<argument> \n 
+              
+l.377 ...\" height=\"24px\"viewBox=\"0 0 24 24\"\n
+                                                  ",
+? 
+! Missing { inserted.
+<to be read again> 
+                   \egroup 
+l.377 ...\" height=\"24px\"viewBox=\"0 0 24 24\"\n
+                                                  ",
+? 
+! You can't use `\spacefactor' in math mode.
+\add@accent ... \accent #1 #2\egroup \spacefactor 
+                                                  \accent@spacefactor 
+l.377 ...\" height=\"24px\"viewBox=\"0 0 24 24\"\n
+                                                  ",
+? 
+
+LaTeX Warning: Command \" invalid in math mode on input line 378.
+
+! Please use \mathaccent for accents in math mode.
+\add@accent ... \let \ignorespaces \relax \accent 
+                                                  #1 #2\egroup \spacefactor ...
+l.378               "       width=\"2
+                                     4px\">\n",
+? 
+! You can't use `\spacefactor' in math mode.
+\add@accent ... \accent #1 #2\egroup \spacefactor 
+                                                  \accent@spacefactor 
+l.378               "       width=\"2
+                                     4px\">\n",
+? 
+
+LaTeX Warning: Command \" invalid in math mode on input line 378.
+
+! Please use \mathaccent for accents in math mode.
+\add@accent ... \let \ignorespaces \relax \accent 
+                                                  #1 #2\egroup \spacefactor ...
+l.378               "       width=\"24px\">
+                                           \n",
+? 
+! You can't use `\spacefactor' in math mode.
+\add@accent ... \accent #1 #2\egroup \spacefactor 
+                                                  \accent@spacefactor 
+l.378               "       width=\"24px\">
+                                           \n",
+? 
+! Undefined control sequence.
+l.378               "       width=\"24px\">\n
+                                             ",
+? 
+
+LaTeX Warning: Command \" invalid in math mode on input line 379.
+
+! Please use \mathaccent for accents in math mode.
+\add@accent ... \let \ignorespaces \relax \accent 
+                                                  #1 #2\egroup \spacefactor ...
+l.379               "    <path d=\"M
+                                    0 0h24v24H0V0z\" fill=\"none\"/>\n",
+? 
+! You can't use `\spacefactor' in math mode.
+\add@accent ... \accent #1 #2\egroup \spacefactor 
+                                                  \accent@spacefactor 
+l.379               "    <path d=\"M
+                                    0 0h24v24H0V0z\" fill=\"none\"/>\n",
+? 
+
+LaTeX Warning: Command \" invalid in math mode on input line 379.
+
+! Please use \mathaccent for accents in math mode.
+\add@accent ... \let \ignorespaces \relax \accent 
+                                                  #1 #2\egroup \spacefactor ...
+l.379 ...       "    <path d=\"M0 0h24v24H0V0z\" f
+                                                  ill=\"none\"/>\n",
+? 
+! You can't use `\spacefactor' in math mode.
+\add@accent ... \accent #1 #2\egroup \spacefactor 
+                                                  \accent@spacefactor 
+l.379 ...       "    <path d=\"M0 0h24v24H0V0z\" f
+                                                  ill=\"none\"/>\n",
+? 
+
+LaTeX Warning: Command \" invalid in math mode on input line 379.
+
+! Please use \mathaccent for accents in math mode.
+\add@accent ... \let \ignorespaces \relax \accent 
+                                                  #1 #2\egroup \spacefactor ...
+l.379 ..."    <path d=\"M0 0h24v24H0V0z\" fill=\"n
+                                                  one\"/>\n",
+? 
+! You can't use `\spacefactor' in math mode.
+\add@accent ... \accent #1 #2\egroup \spacefactor 
+                                                  \accent@spacefactor 
+l.379 ..."    <path d=\"M0 0h24v24H0V0z\" fill=\"n
+                                                  one\"/>\n",
+? 
+
+LaTeX Warning: Command \" invalid in math mode on input line 379.
+
+! Please use \mathaccent for accents in math mode.
+\add@accent ... \let \ignorespaces \relax \accent 
+                                                  #1 #2\egroup \spacefactor ...
+l.379 ...path d=\"M0 0h24v24H0V0z\" fill=\"none\"/
+                                                  >\n",
+? 
+! You can't use `\spacefactor' in math mode.
+\add@accent ... \accent #1 #2\egroup \spacefactor 
+                                                  \accent@spacefactor 
+l.379 ...path d=\"M0 0h24v24H0V0z\" fill=\"none\"/
+                                                  >\n",
+? 
+! Undefined control sequence.
+l.379 ...h d=\"M0 0h24v24H0V0z\" fill=\"none\"/>\n
+                                                  ",
+? 
+
+LaTeX Warning: Command \" invalid in math mode on input line 380.
+
+! Please use \mathaccent for accents in math mode.
+\add@accent ... \let \ignorespaces \relax \accent 
+                                                  #1 #2\egroup \spacefactor ...
+l.380               "    <path d=\"M
+                                    18.56 5.44l.94 2.06.94-2.06 2.06-.94-2.0...
+
+? 
+! You can't use `\spacefactor' in math mode.
+\add@accent ... \accent #1 #2\egroup \spacefactor 
+                                                  \accent@spacefactor 
+l.380               "    <path d=\"M
+                                    18.56 5.44l.94 2.06.94-2.06 2.06-.94-2.0...
+
+? 
+
+LaTeX Warning: Command \" invalid in math mode on input line 380.
+
+! Please use \mathaccent for accents in math mode.
+\add@accent ... \let \ignorespaces \relax \accent 
+                                                  #1 #2\egroup \spacefactor ...
+l.380 ...94-2.06-.94-.94-2.06-.94 2.06-2.06.94z\"/
+                                                  ><path d=\"M17.41 7.96l-1....
+
+? 
+! You can't use `\spacefactor' in math mode.
+\add@accent ... \accent #1 #2\egroup \spacefactor 
+                                                  \accent@spacefactor 
+l.380 ...94-2.06-.94-.94-2.06-.94 2.06-2.06.94z\"/
+                                                  ><path d=\"M17.41 7.96l-1....
+
+? 
+
+LaTeX Warning: Command \" invalid in math mode on input line 380.
+
+! Please use \mathaccent for accents in math mode.
+\add@accent ... \let \ignorespaces \relax \accent 
+                                                  #1 #2\egroup \spacefactor ...
+l.380 ....94-2.06-.94 2.06-2.06.94z\"/><path d=\"M
+                                                  17.41 7.96l-1.37-1.37c-.4-...
+
+? 
+! You can't use `\spacefactor' in math mode.
+\add@accent ... \accent #1 #2\egroup \spacefactor 
+                                                  \accent@spacefactor 
+l.380 ....94-2.06-.94 2.06-2.06.94z\"/><path d=\"M
+                                                  17.41 7.96l-1.37-1.37c-.4-...
+
+? 
+
+LaTeX Warning: Command \" invalid in math mode on input line 380.
+
+! Please use \mathaccent for accents in math mode.
+\add@accent ... \let \ignorespaces \relax \accent 
+                                                  #1 #2\egroup \spacefactor ...
+l.380 ...0L4 18.59l7.72-7.72 1.47 1.35L5.41 20z\"/
+                                                  >\n",
+? 
+! You can't use `\spacefactor' in math mode.
+\add@accent ... \accent #1 #2\egroup \spacefactor 
+                                                  \accent@spacefactor 
+l.380 ...0L4 18.59l7.72-7.72 1.47 1.35L5.41 20z\"/
+                                                  >\n",
+? 
+! Undefined control sequence.
+l.380 ... 18.59l7.72-7.72 1.47 1.35L5.41 20z\"/>\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.381               "  </svg>\n
+                               ",
+? 
+! Undefined control sequence.
+l.382               "      </button>\n
+                                      ",
+? 
+! Undefined control sequence.
+l.383               "      \n
+                             ",
+? 
+! Undefined control sequence.
+l.384               "  <style>\n
+                                ",
+? 
+! Undefined control sequence.
+l.385               "    .colab-df-container {\n
+                                                ",
+? 
+! Undefined control sequence.
+l.386               "      display:flex;\n
+                                          ",
+? 
+! Undefined control sequence.
+l.387               "      flex-wrap:wrap;\n
+                                            ",
+? 
+! Undefined control sequence.
+l.388               "      gap: 12px;\n
+                                       ",
+? 
+! Undefined control sequence.
+l.389               "    }\n
+                            ",
+? 
+! Undefined control sequence.
+l.390               "\n
+                       ",
+? 
+! Undefined control sequence.
+l.391               "    .colab-df-convert {\n
+                                              ",
+? 
+! You can't use `macro parameter character #' in math mode.
+l.392               "      background-color: #
+                                              E8F0FE;\n",
+? 
+! Undefined control sequence.
+l.392 ...      "      background-color: #E8F0FE;\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.393               "      border: none;\n
+                                          ",
+? 
+! Undefined control sequence.
+l.395               "      cursor: pointer;\n
+                                             ",
+? 
+! Undefined control sequence.
+l.396               "      display: none;\n
+                                           ",
+? 
+! You can't use `macro parameter character #' in math mode.
+l.397               "      fill: #
+                                  1967D2;\n",
+? 
+! Undefined control sequence.
+l.397               "      fill: #1967D2;\n
+                                           ",
+? 
+! Undefined control sequence.
+l.398               "      height: 32px;\n
+                                          ",
+? 
+! Undefined control sequence.
+l.399               "      padding: 0 0 0 0;\n
+                                              ",
+? 
+! Undefined control sequence.
+l.400               "      width: 32px;\n
+                                         ",
+? 
+! Undefined control sequence.
+l.401               "    }\n
+                            ",
+? 
+! Undefined control sequence.
+l.402               "\n
+                       ",
+? 
+! Undefined control sequence.
+l.403 ...         "    .colab-df-convert:hover {\n
+                                                  ",
+? 
+! You can't use `macro parameter character #' in math mode.
+l.404               "      background-color: #
+                                              E2EBFA;\n",
+? 
+! Undefined control sequence.
+l.404 ...      "      background-color: #E2EBFA;\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.405 ...0px 1px 3px 1px rgba(60, 64, 67, 0.15);\n
+                                                  ",
+? 
+! You can't use `macro parameter character #' in math mode.
+l.406               "      fill: #
+                                  174EA6;\n",
+? 
+! Undefined control sequence.
+l.406               "      fill: #174EA6;\n
+                                           ",
+? 
+! Undefined control sequence.
+l.407               "    }\n
+                            ",
+? 
+! Undefined control sequence.
+l.408               "\n
+                       ",
+? 
+! Undefined control sequence.
+l.409 ...  "    [theme=dark] .colab-df-convert {\n
+                                                  ",
+? 
+! You can't use `macro parameter character #' in math mode.
+l.410               "      background-color: #
+                                              3B4455;\n",
+? 
+! Undefined control sequence.
+l.410 ...      "      background-color: #3B4455;\n
+                                                  ",
+? 
+! You can't use `macro parameter character #' in math mode.
+l.411               "      fill: #
+                                  D2E3FC;\n",
+? 
+! Undefined control sequence.
+l.411               "      fill: #D2E3FC;\n
+                                           ",
+? 
+! Undefined control sequence.
+l.412               "    }\n
+                            ",
+? 
+! Undefined control sequence.
+l.413               "\n
+                       ",
+? 
+! Undefined control sequence.
+l.414 ... [theme=dark] .colab-df-convert:hover {\n
+                                                  ",
+? 
+! You can't use `macro parameter character #' in math mode.
+l.415               "      background-color: #
+                                              434B5C;\n",
+? 
+! Undefined control sequence.
+l.415 ...      "      background-color: #434B5C;\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.416 ...w: 0px 1px 3px 1px rgba(0, 0, 0, 0.15);\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.417 ...shadow(0px 1px 2px rgba(0, 0, 0, 0.3));\n
+                                                  ",
+? 
+! You can't use `macro parameter character #' in math mode.
+l.418               "      fill: #
+                                  FFFFFF;\n",
+? 
+! Undefined control sequence.
+l.418               "      fill: #FFFFFF;\n
+                                           ",
+? 
+! Undefined control sequence.
+l.419               "    }\n
+                            ",
+? 
+! Undefined control sequence.
+l.420               "  </style>\n
+                                 ",
+? 
+! Undefined control sequence.
+l.421               "\n
+                       ",
+? 
+! Undefined control sequence.
+l.422               "      <script>\n
+                                     ",
+? 
+! Undefined control sequence.
+l.423               "        const buttonEl =\n
+                                               ",
+? 
+! You can't use `macro parameter character #' in math mode.
+<recently read> ##
+                  
+l.424 ...     "          document.querySelector('#
+                                                  df-ca3ad90a-e71d-4d08-bda4...
+
+? 
+! Undefined control sequence.
+l.424 ...4e88bf841ba9 button.colab-df-convert');\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.425 ...      "        buttonEl.style.display =\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.426 ...ernel.accessAllowed ? 'block' : 'none';\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.427               "\n
+                       ",
+? 
+! Undefined control sequence.
+l.428 ...nc function convertToInteractive(key) {\n
+                                                  ",
+? 
+! You can't use `macro parameter character #' in math mode.
+<recently read> ##
+                  
+l.429 ...const element = document.querySelector('#
+                                                  df-ca3ad90a-e71d-4d08-bda4...
+
+? 
+! Undefined control sequence.
+l.429 ...ca3ad90a-e71d-4d08-bda4-4e88bf841ba9');\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.430               "          const dataTable =\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.431 ....invokeFunction('convertToInteractive',\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.432 ...                            [key], {});\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.433 ...     "          if (!dataTable) return;\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.434               "\n
+                       ",
+? 
+! Undefined control sequence.
+l.435 ...tml = 'Like what you see? Visit the ' +\n
+                                                  ",
+? 
+
+LaTeX Warning: Command \" invalid in math mode on input line 436.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.436               "            '<a target=\"_
+                                               blank\" href=https://colab.re...
+
+? 
+! Missing { inserted.
+<to be read again> 
+                   \global 
+l.436               "            '<a target=\"_
+                                               blank\" href=https://colab.re...
+
+? 
+! Improper \spacefactor.
+<recently read> \spacefactor 
+                             
+l.436               "            '<a target=\"_
+                                               blank\" href=https://colab.re...
+
+? 
+! Please use \mathaccent for accents in math mode.
+\add@accent ... \let \ignorespaces \relax \accent 
+                                                  #1 #2\egroup \spacefactor ...
+l.436               "            '<a target=\"_
+                                               blank\" href=https://colab.re...
+
+? 
+! Missing { inserted.
+<to be read again> 
+                   _
+l.436               "            '<a target=\"_
+                                               blank\" href=https://colab.re...
+
+? 
+! Missing { inserted.
+<to be read again> 
+                   \egroup 
+l.436               "            '<a target=\"_
+                                               blank\" href=https://colab.re...
+
+? 
+! You can't use `\spacefactor' in math mode.
+\add@accent ... \accent #1 #2\egroup \spacefactor 
+                                                  \accent@spacefactor 
+l.436               "            '<a target=\"_
+                                               blank\" href=https://colab.re...
+
+? 
+
+LaTeX Warning: Command \" invalid in math mode on input line 436.
+
+! Please use \mathaccent for accents in math mode.
+\add@accent ... \let \ignorespaces \relax \accent 
+                                                  #1 #2\egroup \spacefactor ...
+l.436 ...     "            '<a target=\"_blank\" h
+                                                  ref=https://colab.research...
+
+? 
+! You can't use `\spacefactor' in math mode.
+\add@accent ... \accent #1 #2\egroup \spacefactor 
+                                                  \accent@spacefactor 
+l.436 ...     "            '<a target=\"_blank\" h
+                                                  ref=https://colab.research...
+
+? 
+! Undefined control sequence.
+<recently read> \n 
+                   
+l.436 ...ta_table.ipynb>data table notebook</a>'\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.437 ... learn more about interactive tables.';\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.438 ...     "          element.innerHTML = '';\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.439 ...aTable['output_type'] = 'display_data';\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.440 ...utput.renderOutput(dataTable, element);\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.441 ...ocLink = document.createElement('div');\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.442 ...       docLink.innerHTML = docLinkHtml;\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.443 ...          element.appendChild(docLink);\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.444               "        }\n
+                                ",
+? 
+! Undefined control sequence.
+l.445               "      </script>\n
+                                      ",
+? 
+! Undefined control sequence.
+l.446               "    </div>\n
+                                 ",
+? 
+! Undefined control sequence.
+l.447               "  </div>\n
+                               ",
+? 
+! Undefined control sequence.
+<recently read> \n 
+                   
+l.451 ...       "                     smiles  \\\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.452 ...        "6728        [H]c1nnc([H])o1   \n
+                                                  ",
+? 
+! Undefined control sequence.
+l.453 ...        "72803      [H]c1nnnc([H])n1   \n
+                                                  ",
+? 
+! Undefined control sequence.
+l.454 ...        "97670    [H]c1onnc1C(F)(F)F   \n
+                                                  ",
+? 
+! You can't use `macro parameter character #' in math mode.
+l.455               "25487    [H]n1nnc(C#
+                                         CC#N)n1   \n",
+? 
+! You can't use `macro parameter character #' in math mode.
+l.455               "25487    [H]n1nnc(C#CC#
+                                            N)n1   \n",
+? 
+! Undefined control sequence.
+l.455 ...        "25487    [H]n1nnc(C#CC#N)n1   \n
+                                                  ",
+? 
+! You can't use `macro parameter character #' in math mode.
+l.456               "32004  [H]C#
+                                 Cc1nnc(F)nc1[H]   \n",
+? 
+! Undefined control sequence.
+l.456 ...        "32004  [H]C#Cc1nnc(F)nc1[H]   \n
+                                                  ",
+? 
+! Undefined control sequence.
+l.457               "\n
+                       ",
+? 
+! Undefined control sequence.
+l.458 ...                         selfies  len  \n
+                                                  ",
+? 
+! Undefined control sequence.
+l.459 ...[Branch1][C][H][O][Ring1][=Br...   15  \n
+                                                  ",
+? 
+! Undefined control sequence.
+l.460 ...[C][Branch1][C][H][=N][Ring1]...   16  \n
+                                                  ",
+? 
+! Undefined control sequence.
+l.461 ...C][=Ring1][Branch1][C][Branch...   18  \n
+                                                  ",
+? 
+! You can't use `macro parameter character #' in math mode.
+l.462 ...  [H][N][N][=N][C][Branch1][Branch1][C][#
+                                                  C][C][#...   18  \n",
+? 
+! You can't use `macro parameter character #' in math mode.
+l.462 ...][N][=N][C][Branch1][Branch1][C][#C][C][#
+                                                  ...   18  \n",
+? 
+! Undefined control sequence.
+l.462 ...Branch1][Branch1][C][#C][C][#...   18  \n
+                                                  ",
+? 
+! You can't use `macro parameter character #' in math mode.
+l.463               "32004  [H][C][#
+                                    C][C][=N][N][=C][Branch1][C][F][N][=C].....
+
+? 
+! Extra }, or forgotten $.
+l.465           }
+                 ,
+? 
+! Extra }, or forgotten $.
+l.468         }
+               
+? 
+! Extra }, or forgotten $.
+l.478     }
+           ,
+? 
+! Undefined control sequence.
+l.492 ...fies_list = np.asanyarray(data.selfies)\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.493 ...get_alphabet_from_selfies(selfies_list)\n
+                                                  ",
+? 
+! You can't use `macro parameter character #' in math mode.
+l.494         "selfies_alphabet.add('[nop]')  #
+                                                Add the \"no operation\" sym...
+
+? 
+
+LaTeX Warning: Command \" invalid in math mode on input line 494.
+
+! Please use \mathaccent for accents in math mode.
+\add@accent ... \let \ignorespaces \relax \accent 
+                                                  #1 #2\egroup \spacefactor ...
+l.494 ...fies_alphabet.add('[nop]')  # Add the \"n
+                                                  o operation\" symbol as a ...
+
+? 
+! You can't use `\spacefactor' in math mode.
+\add@accent ... \accent #1 #2\egroup \spacefactor 
+                                                  \accent@spacefactor 
+l.494 ...fies_alphabet.add('[nop]')  # Add the \"n
+                                                  o operation\" symbol as a ...
+
+? 
+
+LaTeX Warning: Command \" invalid in math mode on input line 494.
+
+! Please use \mathaccent for accents in math mode.
+\add@accent ... \let \ignorespaces \relax \accent 
+                                                  #1 #2\egroup \spacefactor ...
+l.494 ...dd('[nop]')  # Add the \"no operation\" s
+                                                  ymbol as a padding charact...
+
+? 
+! You can't use `\spacefactor' in math mode.
+\add@accent ... \accent #1 #2\egroup \spacefactor 
+                                                  \accent@spacefactor 
+l.494 ...dd('[nop]')  # Add the \"no operation\" s
+                                                  ymbol as a padding charact...
+
+? 
+! Undefined control sequence.
+l.494 ...eration\" symbol as a padding character\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.495         "selfies_alphabet.add('.') \n
+                                           ",
+? 
+! Undefined control sequence.
+l.496 ...phabet = list(sorted(selfies_alphabet))\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.497 ...f.len_selfies(s) for s in selfies_list)\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.498 ...or i, c in enumerate(selfies_alphabet))\n
+                                                  ",
+? 
+
+LaTeX Warning: Command \" invalid in math mode on input line 529.
+
+! Please use \mathaccent for accents in math mode.
+\add@accent ... \let \ignorespaces \relax \accent 
+                                                  #1 #2\egroup \spacefactor ...
+l.529         "Next, we \"d
+                           equantize\" the inputs by adding random noise fro...
+
+? 
+! You can't use `\spacefactor' in math mode.
+\add@accent ... \accent #1 #2\egroup \spacefactor 
+                                                  \accent@spacefactor 
+l.529         "Next, we \"d
+                           equantize\" the inputs by adding random noise fro...
+
+? 
+
+LaTeX Warning: Command \" invalid in math mode on input line 529.
+
+! Please use \mathaccent for accents in math mode.
+\add@accent ... \let \ignorespaces \relax \accent 
+                                                  #1 #2\egroup \spacefactor ...
+l.529         "Next, we \"dequantize\" t
+                                        he inputs by adding random noise fro...
+
+? 
+! You can't use `\spacefactor' in math mode.
+\add@accent ... \accent #1 #2\egroup \spacefactor 
+                                                  \accent@spacefactor 
+l.529         "Next, we \"dequantize\" t
+                                        he inputs by adding random noise fro...
+
+? 
+! Undefined control sequence.
+l.539 ...ert_to_tensor(onehots, dtype='float64')\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.540 ...e, minval=0, maxval=1, dtype='float64')\n
+                                                  ",
+? 
+! You can't use `macro parameter character #' in math mode.
+l.561 ...  "ds = NumpyDataset(dequantized_data)  #
+                                                   Create a DeepChem dataset...
+
+? 
+! Undefined control sequence.
+l.561 ...ized_data)  # Create a DeepChem dataset\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.562         "splitter = RandomSplitter()\n
+                                            ",
+? 
+! Undefined control sequence.
+l.563 ...n_valid_test_split(dataset=ds, seed=42)\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.564 ...x = splitter.split(dataset=ds, seed=42)\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.565         "\n
+                 ",
+? 
+! You can't use `macro parameter character #' in math mode.
+l.566         "dim = len(train.X[0])  #
+                                        length of one-hot encoded vectors\n",
+? 
+! Undefined control sequence.
+l.566 ...])  # length of one-hot encoded vectors\n
+                                                  ",
+? 
+! You can't use `macro parameter character #' in math mode.
+l.567         "train.X.shape  #
+                                2000 samples, N-dimensional one-hot vectors ...
+
+? 
+! You can't use `macro parameter character #' in math mode.
+l.593         "#
+                 SMILES strings of training data\n",
+? 
+! Undefined control sequence.
+l.593         "# SMILES strings of training data\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.614 ...np.zeros(dim), scale_diag=np.ones(dim))\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.615         "\n
+                 ",
+? 
+! Undefined control sequence.
+l.617 ...dim / 2, dim), np.arange(0, dim / 2))),\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.618 ...                              tf.int32)\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.619         "else:\n
+                      ",
+? 
+! Undefined control sequence.
+l.630 ...ween the base and target distributions.\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.631         "\n
+                 ",
+? 
+! Undefined control sequence.
+l.632 ...sform certain dimensions of the inputs.\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.633         "\n
+                 ",
+? 
+! Undefined control sequence.
+l.644         "num_layers = 8\n
+                               ",
+? 
+! Undefined control sequence.
+l.645         "flow_layers = []\n
+                                 ",
+? 
+! Undefined control sequence.
+l.646         "\n
+                 ",
+? 
+! Undefined control sequence.
+l.647 ...e = tfb.AutoregressiveNetwork(params=2,\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.648 ...en_units=[512, 512], activation='relu')\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.649         "\n
+                 ",
+? 
+! Undefined control sequence.
+l.650         "for i in range(num_layers):\n
+                                            ",
+? 
+! Undefined control sequence.
+l.651         "    flow_layers.append(        \n
+                                                ",
+? 
+! Undefined control sequence.
+l.652 ...essiveFlow(shift_and_log_scale_fn=Made)\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.653         "    ))\n
+                       ",
+? 
+! Undefined control sequence.
+l.654         "\n
+                 ",
+? 
+! Undefined control sequence.
+l.655 ...rmutation(np.arange(0, dim)), tf.int32)\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.656         "    \n
+                     ",
+? 
+! Undefined control sequence.
+l.657 ...d(tfb.Permute(permutation=permutation))\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.658         "    \n
+                     ",
+? 
+! You can't use `macro parameter character #' in math mode.
+l.659         "#
+                     if (i + 1) % int(2) == 0:\n",
+? 
+! You can't use `macro parameter character #' in math mode.
+l.660         "#
+                         flow_layers.append(tfb.BatchNormalization())"
+? 
+! Undefined control sequence.
+l.681 ...lizingFlow(base_distribution=base_dist,\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.689 ...ser 280 ms, sys: 10.2 ms, total: 290 ms\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.690             "Wall time: 289 ms\n
+                                      "
+? 
+! Undefined control sequence.
+l.735         "losses = []\n
+                            ",
+? 
+! You can't use `macro parameter character #' in math mode.
+l.748         "max_epochs = 10 #
+                                 maximum number of epochs of the training\n",
+? 
+! Undefined control sequence.
+l.748 ...aximum number of epochs of the training\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.749         "\n
+                 ",
+? 
+! Undefined control sequence.
+l.750         "for epoch in range(max_epochs):\n
+                                                ",
+? 
+! Undefined control sequence.
+l.751 ...t(train, nb_epoch=1, all_losses=losses)\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.752 ...    "  val_loss = nfm.create_nll(val.X)\n
+                                                  ",
+? 
+
+LaTeX Warning: Command \" invalid in math mode on input line 760.
+
+! Please use \mathaccent for accents in math mode.
+\add@accent ... \let \ignorespaces \relax \accent 
+                                                  #1 #2\egroup \spacefactor ...
+l.760 ...nput_1'), name='input_1', description=\"c
+                                                  reated by layer 'input_1'\...
+
+? 
+! You can't use `\spacefactor' in math mode.
+\add@accent ... \accent #1 #2\egroup \spacefactor 
+                                                  \accent@spacefactor 
+l.760 ...nput_1'), name='input_1', description=\"c
+                                                  reated by layer 'input_1'\...
+
+? 
+
+LaTeX Warning: Command \" invalid in math mode on input line 760.
+
+! Please use \mathaccent for accents in math mode.
+\add@accent ... \let \ignorespaces \relax \accent 
+                                                  #1 #2\egroup \spacefactor ...
+l.760 ...scription=\"created by layer 'input_1'\")
+                                                  , but it was called on an ...
+
+? 
+! You can't use `\spacefactor' in math mode.
+\add@accent ... \accent #1 #2\egroup \spacefactor 
+                                                  \accent@spacefactor 
+l.760 ...scription=\"created by layer 'input_1'\")
+                                                  , but it was called on an ...
+
+? 
+! Undefined control sequence.
+l.760 ...with incompatible shape (1, 128, 2596).\n
+                                                  ",
+? 
+
+LaTeX Warning: Command \" invalid in math mode on input line 761.
+
+! Please use \mathaccent for accents in math mode.
+\add@accent ... \let \ignorespaces \relax \accent 
+                                                  #1 #2\egroup \spacefactor ...
+l.761 ...nput_1'), name='input_1', description=\"c
+                                                  reated by layer 'input_1'\...
+
+? 
+! You can't use `\spacefactor' in math mode.
+\add@accent ... \accent #1 #2\egroup \spacefactor 
+                                                  \accent@spacefactor 
+l.761 ...nput_1'), name='input_1', description=\"c
+                                                  reated by layer 'input_1'\...
+
+? 
+
+LaTeX Warning: Command \" invalid in math mode on input line 761.
+
+! Please use \mathaccent for accents in math mode.
+\add@accent ... \let \ignorespaces \relax \accent 
+                                                  #1 #2\egroup \spacefactor ...
+l.761 ...scription=\"created by layer 'input_1'\")
+                                                  , but it was called on an ...
+
+? 
+! You can't use `\spacefactor' in math mode.
+\add@accent ... \accent #1 #2\egroup \spacefactor 
+                                                  \accent@spacefactor 
+l.761 ...scription=\"created by layer 'input_1'\")
+                                                  , but it was called on an ...
+
+? 
+! Undefined control sequence.
+l.761 ...with incompatible shape (1, 128, 2596).\n
+                                                  ",
+? 
+
+LaTeX Warning: Command \" invalid in math mode on input line 762.
+
+! Please use \mathaccent for accents in math mode.
+\add@accent ... \let \ignorespaces \relax \accent 
+                                                  #1 #2\egroup \spacefactor ...
+l.762 ...nput_1'), name='input_1', description=\"c
+                                                  reated by layer 'input_1'\...
+
+? 
+! You can't use `\spacefactor' in math mode.
+\add@accent ... \accent #1 #2\egroup \spacefactor 
+                                                  \accent@spacefactor 
+l.762 ...nput_1'), name='input_1', description=\"c
+                                                  reated by layer 'input_1'\...
+
+? 
+
+LaTeX Warning: Command \" invalid in math mode on input line 762.
+
+! Please use \mathaccent for accents in math mode.
+\add@accent ... \let \ignorespaces \relax \accent 
+                                                  #1 #2\egroup \spacefactor ...
+l.762 ...scription=\"created by layer 'input_1'\")
+                                                  , but it was called on an ...
+
+? 
+! You can't use `\spacefactor' in math mode.
+\add@accent ... \accent #1 #2\egroup \spacefactor 
+                                                  \accent@spacefactor 
+l.762 ...scription=\"created by layer 'input_1'\")
+                                                  , but it was called on an ...
+
+? 
+! Undefined control sequence.
+l.762 ...with incompatible shape (1, 128, 2596).\n
+                                                  ",
+? 
+
+LaTeX Warning: Command \" invalid in math mode on input line 763.
+
+! Please use \mathaccent for accents in math mode.
+\add@accent ... \let \ignorespaces \relax \accent 
+                                                  #1 #2\egroup \spacefactor ...
+l.763 ...nput_1'), name='input_1', description=\"c
+                                                  reated by layer 'input_1'\...
+
+? 
+! You can't use `\spacefactor' in math mode.
+\add@accent ... \accent #1 #2\egroup \spacefactor 
+                                                  \accent@spacefactor 
+l.763 ...nput_1'), name='input_1', description=\"c
+                                                  reated by layer 'input_1'\...
+
+? 
+
+LaTeX Warning: Command \" invalid in math mode on input line 763.
+
+! Please use \mathaccent for accents in math mode.
+\add@accent ... \let \ignorespaces \relax \accent 
+                                                  #1 #2\egroup \spacefactor ...
+l.763 ...scription=\"created by layer 'input_1'\")
+                                                  , but it was called on an ...
+
+? 
+! You can't use `\spacefactor' in math mode.
+\add@accent ... \accent #1 #2\egroup \spacefactor 
+                                                  \accent@spacefactor 
+l.763 ...scription=\"created by layer 'input_1'\")
+                                                  , but it was called on an ...
+
+? 
+! Undefined control sequence.
+l.763 ...with incompatible shape (1, 128, 2596).\n
+                                                  ",
+? 
+
+LaTeX Warning: Command \" invalid in math mode on input line 764.
+
+! Please use \mathaccent for accents in math mode.
+\add@accent ... \let \ignorespaces \relax \accent 
+                                                  #1 #2\egroup \spacefactor ...
+l.764 ...nput_1'), name='input_1', description=\"c
+                                                  reated by layer 'input_1'\...
+
+? 
+! You can't use `\spacefactor' in math mode.
+\add@accent ... \accent #1 #2\egroup \spacefactor 
+                                                  \accent@spacefactor 
+l.764 ...nput_1'), name='input_1', description=\"c
+                                                  reated by layer 'input_1'\...
+
+? 
+
+LaTeX Warning: Command \" invalid in math mode on input line 764.
+
+! Please use \mathaccent for accents in math mode.
+\add@accent ... \let \ignorespaces \relax \accent 
+                                                  #1 #2\egroup \spacefactor ...
+l.764 ...scription=\"created by layer 'input_1'\")
+                                                  , but it was called on an ...
+
+? 
+! You can't use `\spacefactor' in math mode.
+\add@accent ... \accent #1 #2\egroup \spacefactor 
+                                                  \accent@spacefactor 
+l.764 ...scription=\"created by layer 'input_1'\")
+                                                  , but it was called on an ...
+
+? 
+! Undefined control sequence.
+l.764 ...with incompatible shape (1, 128, 2596).\n
+                                                  ",
+? 
+
+LaTeX Warning: Command \" invalid in math mode on input line 765.
+
+! Please use \mathaccent for accents in math mode.
+\add@accent ... \let \ignorespaces \relax \accent 
+                                                  #1 #2\egroup \spacefactor ...
+l.765 ...nput_1'), name='input_1', description=\"c
+                                                  reated by layer 'input_1'\...
+
+? 
+! You can't use `\spacefactor' in math mode.
+\add@accent ... \accent #1 #2\egroup \spacefactor 
+                                                  \accent@spacefactor 
+l.765 ...nput_1'), name='input_1', description=\"c
+                                                  reated by layer 'input_1'\...
+
+? 
+
+LaTeX Warning: Command \" invalid in math mode on input line 765.
+
+! Please use \mathaccent for accents in math mode.
+\add@accent ... \let \ignorespaces \relax \accent 
+                                                  #1 #2\egroup \spacefactor ...
+l.765 ...scription=\"created by layer 'input_1'\")
+                                                  , but it was called on an ...
+
+? 
+! You can't use `\spacefactor' in math mode.
+\add@accent ... \accent #1 #2\egroup \spacefactor 
+                                                  \accent@spacefactor 
+l.765 ...scription=\"created by layer 'input_1'\")
+                                                  , but it was called on an ...
+
+? 
+! Undefined control sequence.
+l.765 ...with incompatible shape (1, 128, 2596).\n
+                                                  ",
+? 
+
+LaTeX Warning: Command \" invalid in math mode on input line 766.
+
+! Please use \mathaccent for accents in math mode.
+\add@accent ... \let \ignorespaces \relax \accent 
+                                                  #1 #2\egroup \spacefactor ...
+l.766 ...nput_1'), name='input_1', description=\"c
+                                                  reated by layer 'input_1'\...
+
+? 
+! You can't use `\spacefactor' in math mode.
+\add@accent ... \accent #1 #2\egroup \spacefactor 
+                                                  \accent@spacefactor 
+l.766 ...nput_1'), name='input_1', description=\"c
+                                                  reated by layer 'input_1'\...
+
+? 
+
+LaTeX Warning: Command \" invalid in math mode on input line 766.
+
+! Please use \mathaccent for accents in math mode.
+\add@accent ... \let \ignorespaces \relax \accent 
+                                                  #1 #2\egroup \spacefactor ...
+l.766 ...scription=\"created by layer 'input_1'\")
+                                                  , but it was called on an ...
+
+? 
+! You can't use `\spacefactor' in math mode.
+\add@accent ... \accent #1 #2\egroup \spacefactor 
+                                                  \accent@spacefactor 
+l.766 ...scription=\"created by layer 'input_1'\")
+                                                  , but it was called on an ...
+
+? 
+! Undefined control sequence.
+l.766 ...with incompatible shape (1, 128, 2596).\n
+                                                  ",
+? 
+
+LaTeX Warning: Command \" invalid in math mode on input line 767.
+
+! Please use \mathaccent for accents in math mode.
+\add@accent ... \let \ignorespaces \relax \accent 
+                                                  #1 #2\egroup \spacefactor ...
+l.767 ...nput_1'), name='input_1', description=\"c
+                                                  reated by layer 'input_1'\...
+
+? 
+! You can't use `\spacefactor' in math mode.
+\add@accent ... \accent #1 #2\egroup \spacefactor 
+                                                  \accent@spacefactor 
+l.767 ...nput_1'), name='input_1', description=\"c
+                                                  reated by layer 'input_1'\...
+
+? 
+
+LaTeX Warning: Command \" invalid in math mode on input line 767.
+
+! Please use \mathaccent for accents in math mode.
+\add@accent ... \let \ignorespaces \relax \accent 
+                                                  #1 #2\egroup \spacefactor ...
+l.767 ...scription=\"created by layer 'input_1'\")
+                                                  , but it was called on an ...
+
+? 
+! You can't use `\spacefactor' in math mode.
+\add@accent ... \accent #1 #2\egroup \spacefactor 
+                                                  \accent@spacefactor 
+l.767 ...scription=\"created by layer 'input_1'\")
+                                                  , but it was called on an ...
+
+? 
+! Undefined control sequence.
+l.767 ...with incompatible shape (1, 128, 2596).\n
+                                                  ",
+? 
+
+LaTeX Warning: Command \" invalid in math mode on input line 768.
+
+! Please use \mathaccent for accents in math mode.
+\add@accent ... \let \ignorespaces \relax \accent 
+                                                  #1 #2\egroup \spacefactor ...
+l.768 ...nput_1'), name='input_1', description=\"c
+                                                  reated by layer 'input_1'\...
+
+? 
+! You can't use `\spacefactor' in math mode.
+\add@accent ... \accent #1 #2\egroup \spacefactor 
+                                                  \accent@spacefactor 
+l.768 ...nput_1'), name='input_1', description=\"c
+                                                  reated by layer 'input_1'\...
+
+? 
+
+LaTeX Warning: Command \" invalid in math mode on input line 768.
+
+! Please use \mathaccent for accents in math mode.
+\add@accent ... \let \ignorespaces \relax \accent 
+                                                  #1 #2\egroup \spacefactor ...
+l.768 ...scription=\"created by layer 'input_1'\")
+                                                  , but it was called on an ...
+
+? 
+! You can't use `\spacefactor' in math mode.
+\add@accent ... \accent #1 #2\egroup \spacefactor 
+                                                  \accent@spacefactor 
+l.768 ...scription=\"created by layer 'input_1'\")
+                                                  , but it was called on an ...
+
+? 
+! Undefined control sequence.
+l.768 ...with incompatible shape (1, 128, 2596).\n
+                                                  ",
+? 
+
+LaTeX Warning: Command \" invalid in math mode on input line 769.
+
+! Please use \mathaccent for accents in math mode.
+\add@accent ... \let \ignorespaces \relax \accent 
+                                                  #1 #2\egroup \spacefactor ...
+l.769 ...nput_1'), name='input_1', description=\"c
+                                                  reated by layer 'input_1'\...
+
+? 
+! You can't use `\spacefactor' in math mode.
+\add@accent ... \accent #1 #2\egroup \spacefactor 
+                                                  \accent@spacefactor 
+l.769 ...nput_1'), name='input_1', description=\"c
+                                                  reated by layer 'input_1'\...
+
+? 
+
+LaTeX Warning: Command \" invalid in math mode on input line 769.
+
+! Please use \mathaccent for accents in math mode.
+\add@accent ... \let \ignorespaces \relax \accent 
+                                                  #1 #2\egroup \spacefactor ...
+l.769 ...scription=\"created by layer 'input_1'\")
+                                                  , but it was called on an ...
+
+? 
+! You can't use `\spacefactor' in math mode.
+\add@accent ... \accent #1 #2\egroup \spacefactor 
+                                                  \accent@spacefactor 
+l.769 ...scription=\"created by layer 'input_1'\")
+                                                  , but it was called on an ...
+
+? 
+! Undefined control sequence.
+l.769 ...with incompatible shape (1, 128, 2596).\n
+                                                  ",
+? 
+
+LaTeX Warning: Command \" invalid in math mode on input line 770.
+
+! Please use \mathaccent for accents in math mode.
+\add@accent ... \let \ignorespaces \relax \accent 
+                                                  #1 #2\egroup \spacefactor ...
+l.770 ...nput_1'), name='input_1', description=\"c
+                                                  reated by layer 'input_1'\...
+
+? 
+! You can't use `\spacefactor' in math mode.
+\add@accent ... \accent #1 #2\egroup \spacefactor 
+                                                  \accent@spacefactor 
+l.770 ...nput_1'), name='input_1', description=\"c
+                                                  reated by layer 'input_1'\...
+
+? 
+
+LaTeX Warning: Command \" invalid in math mode on input line 770.
+
+! Please use \mathaccent for accents in math mode.
+\add@accent ... \let \ignorespaces \relax \accent 
+                                                  #1 #2\egroup \spacefactor ...
+l.770 ...scription=\"created by layer 'input_1'\")
+                                                  , but it was called on an ...
+
+? 
+! You can't use `\spacefactor' in math mode.
+\add@accent ... \accent #1 #2\egroup \spacefactor 
+                                                  \accent@spacefactor 
+l.770 ...scription=\"created by layer 'input_1'\")
+                                                  , but it was called on an ...
+
+? 
+! Undefined control sequence.
+l.770 ...with incompatible shape (1, 128, 2596).\n
+                                                  ",
+? 
+
+LaTeX Warning: Command \" invalid in math mode on input line 771.
+
+! Please use \mathaccent for accents in math mode.
+\add@accent ... \let \ignorespaces \relax \accent 
+                                                  #1 #2\egroup \spacefactor ...
+l.771 ...nput_1'), name='input_1', description=\"c
+                                                  reated by layer 'input_1'\...
+
+? 
+! You can't use `\spacefactor' in math mode.
+\add@accent ... \accent #1 #2\egroup \spacefactor 
+                                                  \accent@spacefactor 
+l.771 ...nput_1'), name='input_1', description=\"c
+                                                  reated by layer 'input_1'\...
+
+? 
+
+LaTeX Warning: Command \" invalid in math mode on input line 771.
+
+! Please use \mathaccent for accents in math mode.
+\add@accent ... \let \ignorespaces \relax \accent 
+                                                  #1 #2\egroup \spacefactor ...
+l.771 ...scription=\"created by layer 'input_1'\")
+                                                  , but it was called on an ...
+
+? 
+! You can't use `\spacefactor' in math mode.
+\add@accent ... \accent #1 #2\egroup \spacefactor 
+                                                  \accent@spacefactor 
+l.771 ...scription=\"created by layer 'input_1'\")
+                                                  , but it was called on an ...
+
+? 
+! Undefined control sequence.
+l.771 ...with incompatible shape (1, 128, 2596).\n
+                                                  ",
+? 
+
+LaTeX Warning: Command \" invalid in math mode on input line 772.
+
+! Please use \mathaccent for accents in math mode.
+\add@accent ... \let \ignorespaces \relax \accent 
+                                                  #1 #2\egroup \spacefactor ...
+l.772 ...nput_1'), name='input_1', description=\"c
+                                                  reated by layer 'input_1'\...
+
+? 
+! You can't use `\spacefactor' in math mode.
+\add@accent ... \accent #1 #2\egroup \spacefactor 
+                                                  \accent@spacefactor 
+l.772 ...nput_1'), name='input_1', description=\"c
+                                                  reated by layer 'input_1'\...
+
+? 
+
+LaTeX Warning: Command \" invalid in math mode on input line 772.
+
+! Please use \mathaccent for accents in math mode.
+\add@accent ... \let \ignorespaces \relax \accent 
+                                                  #1 #2\egroup \spacefactor ...
+l.772 ...scription=\"created by layer 'input_1'\")
+                                                  , but it was called on an ...
+
+? 
+! You can't use `\spacefactor' in math mode.
+\add@accent ... \accent #1 #2\egroup \spacefactor 
+                                                  \accent@spacefactor 
+l.772 ...scription=\"created by layer 'input_1'\")
+                                                  , but it was called on an ...
+
+? 
+! Undefined control sequence.
+l.772 ...with incompatible shape (1, 128, 2596).\n
+                                                  ",
+? 
+
+LaTeX Warning: Command \" invalid in math mode on input line 773.
+
+! Please use \mathaccent for accents in math mode.
+\add@accent ... \let \ignorespaces \relax \accent 
+                                                  #1 #2\egroup \spacefactor ...
+l.773 ...nput_1'), name='input_1', description=\"c
+                                                  reated by layer 'input_1'\...
+
+? 
+! You can't use `\spacefactor' in math mode.
+\add@accent ... \accent #1 #2\egroup \spacefactor 
+                                                  \accent@spacefactor 
+l.773 ...nput_1'), name='input_1', description=\"c
+                                                  reated by layer 'input_1'\...
+
+? 
+
+LaTeX Warning: Command \" invalid in math mode on input line 773.
+
+! Please use \mathaccent for accents in math mode.
+\add@accent ... \let \ignorespaces \relax \accent 
+                                                  #1 #2\egroup \spacefactor ...
+l.773 ...scription=\"created by layer 'input_1'\")
+                                                  , but it was called on an ...
+
+? 
+! You can't use `\spacefactor' in math mode.
+\add@accent ... \accent #1 #2\egroup \spacefactor 
+                                                  \accent@spacefactor 
+l.773 ...scription=\"created by layer 'input_1'\")
+                                                  , but it was called on an ...
+
+? 
+! Undefined control sequence.
+l.773 ...with incompatible shape (1, 128, 2596).\n
+                                                  ",
+? 
+
+LaTeX Warning: Command \" invalid in math mode on input line 774.
+
+! Please use \mathaccent for accents in math mode.
+\add@accent ... \let \ignorespaces \relax \accent 
+                                                  #1 #2\egroup \spacefactor ...
+l.774 ...nput_1'), name='input_1', description=\"c
+                                                  reated by layer 'input_1'\...
+
+? 
+! You can't use `\spacefactor' in math mode.
+\add@accent ... \accent #1 #2\egroup \spacefactor 
+                                                  \accent@spacefactor 
+l.774 ...nput_1'), name='input_1', description=\"c
+                                                  reated by layer 'input_1'\...
+
+? 
+
+LaTeX Warning: Command \" invalid in math mode on input line 774.
+
+! Please use \mathaccent for accents in math mode.
+\add@accent ... \let \ignorespaces \relax \accent 
+                                                  #1 #2\egroup \spacefactor ...
+l.774 ...scription=\"created by layer 'input_1'\")
+                                                  , but it was called on an ...
+
+? 
+! You can't use `\spacefactor' in math mode.
+\add@accent ... \accent #1 #2\egroup \spacefactor 
+                                                  \accent@spacefactor 
+l.774 ...scription=\"created by layer 'input_1'\")
+                                                  , but it was called on an ...
+
+? 
+! Undefined control sequence.
+l.774 ...with incompatible shape (1, 128, 2596).\n
+                                                  ",
+? 
+
+LaTeX Warning: Command \" invalid in math mode on input line 775.
+
+! Please use \mathaccent for accents in math mode.
+\add@accent ... \let \ignorespaces \relax \accent 
+                                                  #1 #2\egroup \spacefactor ...
+l.775 ...nput_1'), name='input_1', description=\"c
+                                                  reated by layer 'input_1'\...
+
+? 
+! You can't use `\spacefactor' in math mode.
+\add@accent ... \accent #1 #2\egroup \spacefactor 
+                                                  \accent@spacefactor 
+l.775 ...nput_1'), name='input_1', description=\"c
+                                                  reated by layer 'input_1'\...
+
+? 
+
+LaTeX Warning: Command \" invalid in math mode on input line 775.
+
+! Please use \mathaccent for accents in math mode.
+\add@accent ... \let \ignorespaces \relax \accent 
+                                                  #1 #2\egroup \spacefactor ...
+l.775 ...scription=\"created by layer 'input_1'\")
+                                                  , but it was called on an ...
+
+? 
+! You can't use `\spacefactor' in math mode.
+\add@accent ... \accent #1 #2\egroup \spacefactor 
+                                                  \accent@spacefactor 
+l.775 ...scription=\"created by layer 'input_1'\")
+                                                  , but it was called on an ...
+
+? 
+! Undefined control sequence.
+l.775 ...with incompatible shape (1, 128, 2596).\n
+                                                  ",
+? 
+
+LaTeX Warning: Command \" invalid in math mode on input line 776.
+
+! Please use \mathaccent for accents in math mode.
+\add@accent ... \let \ignorespaces \relax \accent 
+                                                  #1 #2\egroup \spacefactor ...
+l.776 ...nput_1'), name='input_1', description=\"c
+                                                  reated by layer 'input_1'\...
+
+? 
+! You can't use `\spacefactor' in math mode.
+\add@accent ... \accent #1 #2\egroup \spacefactor 
+                                                  \accent@spacefactor 
+l.776 ...nput_1'), name='input_1', description=\"c
+                                                  reated by layer 'input_1'\...
+
+? 
+
+LaTeX Warning: Command \" invalid in math mode on input line 776.
+
+! Please use \mathaccent for accents in math mode.
+\add@accent ... \let \ignorespaces \relax \accent 
+                                                  #1 #2\egroup \spacefactor ...
+l.776 ...scription=\"created by layer 'input_1'\")
+                                                  , but it was called on an ...
+
+? 
+! You can't use `\spacefactor' in math mode.
+\add@accent ... \accent #1 #2\egroup \spacefactor 
+                                                  \accent@spacefactor 
+l.776 ...scription=\"created by layer 'input_1'\")
+                                                  , but it was called on an ...
+
+? 
+! Undefined control sequence.
+l.776 ...with incompatible shape (1, 128, 2596).\n
+                                                  ",
+? 
+
+LaTeX Warning: Command \" invalid in math mode on input line 777.
+
+! Please use \mathaccent for accents in math mode.
+\add@accent ... \let \ignorespaces \relax \accent 
+                                                  #1 #2\egroup \spacefactor ...
+l.777 ...nput_1'), name='input_1', description=\"c
+                                                  reated by layer 'input_1'\...
+
+? 
+! You can't use `\spacefactor' in math mode.
+\add@accent ... \accent #1 #2\egroup \spacefactor 
+                                                  \accent@spacefactor 
+l.777 ...nput_1'), name='input_1', description=\"c
+                                                  reated by layer 'input_1'\...
+
+? 
+
+LaTeX Warning: Command \" invalid in math mode on input line 777.
+
+! Please use \mathaccent for accents in math mode.
+\add@accent ... \let \ignorespaces \relax \accent 
+                                                  #1 #2\egroup \spacefactor ...
+l.777 ...scription=\"created by layer 'input_1'\")
+                                                  , but it was called on an ...
+
+? 
+! You can't use `\spacefactor' in math mode.
+\add@accent ... \accent #1 #2\egroup \spacefactor 
+                                                  \accent@spacefactor 
+l.777 ...scription=\"created by layer 'input_1'\")
+                                                  , but it was called on an ...
+
+? 
+! Undefined control sequence.
+l.777 ...with incompatible shape (1, 128, 2596).\n
+                                                  ",
+? 
+
+LaTeX Warning: Command \" invalid in math mode on input line 778.
+
+! Please use \mathaccent for accents in math mode.
+\add@accent ... \let \ignorespaces \relax \accent 
+                                                  #1 #2\egroup \spacefactor ...
+l.778 ...nput_1'), name='input_1', description=\"c
+                                                  reated by layer 'input_1'\...
+
+? 
+! You can't use `\spacefactor' in math mode.
+\add@accent ... \accent #1 #2\egroup \spacefactor 
+                                                  \accent@spacefactor 
+l.778 ...nput_1'), name='input_1', description=\"c
+                                                  reated by layer 'input_1'\...
+
+? 
+
+LaTeX Warning: Command \" invalid in math mode on input line 778.
+
+! Please use \mathaccent for accents in math mode.
+\add@accent ... \let \ignorespaces \relax \accent 
+                                                  #1 #2\egroup \spacefactor ...
+l.778 ...scription=\"created by layer 'input_1'\")
+                                                  , but it was called on an ...
+
+? 
+! You can't use `\spacefactor' in math mode.
+\add@accent ... \accent #1 #2\egroup \spacefactor 
+                                                  \accent@spacefactor 
+l.778 ...scription=\"created by layer 'input_1'\")
+                                                  , but it was called on an ...
+
+? 
+! Undefined control sequence.
+l.778 ...with incompatible shape (1, 128, 2596).\n
+                                                  ",
+? 
+
+LaTeX Warning: Command \" invalid in math mode on input line 779.
+
+! Please use \mathaccent for accents in math mode.
+\add@accent ... \let \ignorespaces \relax \accent 
+                                                  #1 #2\egroup \spacefactor ...
+l.779 ...nput_1'), name='input_1', description=\"c
+                                                  reated by layer 'input_1'\...
+
+? 
+! You can't use `\spacefactor' in math mode.
+\add@accent ... \accent #1 #2\egroup \spacefactor 
+                                                  \accent@spacefactor 
+l.779 ...nput_1'), name='input_1', description=\"c
+                                                  reated by layer 'input_1'\...
+
+? 
+
+LaTeX Warning: Command \" invalid in math mode on input line 779.
+
+! Please use \mathaccent for accents in math mode.
+\add@accent ... \let \ignorespaces \relax \accent 
+                                                  #1 #2\egroup \spacefactor ...
+l.779 ...scription=\"created by layer 'input_1'\")
+                                                  , but it was called on an ...
+
+? 
+! You can't use `\spacefactor' in math mode.
+\add@accent ... \accent #1 #2\egroup \spacefactor 
+                                                  \accent@spacefactor 
+l.779 ...scription=\"created by layer 'input_1'\")
+                                                  , but it was called on an ...
+
+? 
+! Undefined control sequence.
+l.779 ...with incompatible shape (1, 128, 2596).\n
+                                                  ",
+? 
+
+LaTeX Warning: Command \" invalid in math mode on input line 780.
+
+! Please use \mathaccent for accents in math mode.
+\add@accent ... \let \ignorespaces \relax \accent 
+                                                  #1 #2\egroup \spacefactor ...
+l.780 ...nput_1'), name='input_1', description=\"c
+                                                  reated by layer 'input_1'\...
+
+? 
+! You can't use `\spacefactor' in math mode.
+\add@accent ... \accent #1 #2\egroup \spacefactor 
+                                                  \accent@spacefactor 
+l.780 ...nput_1'), name='input_1', description=\"c
+                                                  reated by layer 'input_1'\...
+
+? 
+
+LaTeX Warning: Command \" invalid in math mode on input line 780.
+
+! Please use \mathaccent for accents in math mode.
+\add@accent ... \let \ignorespaces \relax \accent 
+                                                  #1 #2\egroup \spacefactor ...
+l.780 ...scription=\"created by layer 'input_1'\")
+                                                  , but it was called on an ...
+
+? 
+! You can't use `\spacefactor' in math mode.
+\add@accent ... \accent #1 #2\egroup \spacefactor 
+                                                  \accent@spacefactor 
+l.780 ...scription=\"created by layer 'input_1'\")
+                                                  , but it was called on an ...
+
+? 
+! Undefined control sequence.
+l.780 ...with incompatible shape (1, 128, 2596).\n
+                                                  ",
+? 
+
+LaTeX Warning: Command \" invalid in math mode on input line 781.
+
+! Please use \mathaccent for accents in math mode.
+\add@accent ... \let \ignorespaces \relax \accent 
+                                                  #1 #2\egroup \spacefactor ...
+l.781 ...nput_1'), name='input_1', description=\"c
+                                                  reated by layer 'input_1'\...
+
+? 
+! You can't use `\spacefactor' in math mode.
+\add@accent ... \accent #1 #2\egroup \spacefactor 
+                                                  \accent@spacefactor 
+l.781 ...nput_1'), name='input_1', description=\"c
+                                                  reated by layer 'input_1'\...
+
+? 
+
+LaTeX Warning: Command \" invalid in math mode on input line 781.
+
+! Please use \mathaccent for accents in math mode.
+\add@accent ... \let \ignorespaces \relax \accent 
+                                                  #1 #2\egroup \spacefactor ...
+l.781 ...scription=\"created by layer 'input_1'\")
+                                                  , but it was called on an ...
+
+? 
+! You can't use `\spacefactor' in math mode.
+\add@accent ... \accent #1 #2\egroup \spacefactor 
+                                                  \accent@spacefactor 
+l.781 ...scription=\"created by layer 'input_1'\")
+                                                  , but it was called on an ...
+
+? 
+! Undefined control sequence.
+l.781 ...with incompatible shape (1, 128, 2596).\n
+                                                  ",
+? 
+
+LaTeX Warning: Command \" invalid in math mode on input line 782.
+
+! Please use \mathaccent for accents in math mode.
+\add@accent ... \let \ignorespaces \relax \accent 
+                                                  #1 #2\egroup \spacefactor ...
+l.782 ...nput_1'), name='input_1', description=\"c
+                                                  reated by layer 'input_1'\...
+
+? 
+! You can't use `\spacefactor' in math mode.
+\add@accent ... \accent #1 #2\egroup \spacefactor 
+                                                  \accent@spacefactor 
+l.782 ...nput_1'), name='input_1', description=\"c
+                                                  reated by layer 'input_1'\...
+
+? 
+
+LaTeX Warning: Command \" invalid in math mode on input line 782.
+
+! Please use \mathaccent for accents in math mode.
+\add@accent ... \let \ignorespaces \relax \accent 
+                                                  #1 #2\egroup \spacefactor ...
+l.782 ...scription=\"created by layer 'input_1'\")
+                                                  , but it was called on an ...
+
+? 
+! You can't use `\spacefactor' in math mode.
+\add@accent ... \accent #1 #2\egroup \spacefactor 
+                                                  \accent@spacefactor 
+l.782 ...scription=\"created by layer 'input_1'\")
+                                                  , but it was called on an ...
+
+? 
+! Undefined control sequence.
+l.782 ...with incompatible shape (1, 128, 2596).\n
+                                                  ",
+? 
+
+LaTeX Warning: Command \" invalid in math mode on input line 783.
+
+! Please use \mathaccent for accents in math mode.
+\add@accent ... \let \ignorespaces \relax \accent 
+                                                  #1 #2\egroup \spacefactor ...
+l.783 ...nput_1'), name='input_1', description=\"c
+                                                  reated by layer 'input_1'\...
+
+? 
+! You can't use `\spacefactor' in math mode.
+\add@accent ... \accent #1 #2\egroup \spacefactor 
+                                                  \accent@spacefactor 
+l.783 ...nput_1'), name='input_1', description=\"c
+                                                  reated by layer 'input_1'\...
+
+? 
+
+LaTeX Warning: Command \" invalid in math mode on input line 783.
+
+! Please use \mathaccent for accents in math mode.
+\add@accent ... \let \ignorespaces \relax \accent 
+                                                  #1 #2\egroup \spacefactor ...
+l.783 ...scription=\"created by layer 'input_1'\")
+                                                  , but it was called on an ...
+
+? 
+! You can't use `\spacefactor' in math mode.
+\add@accent ... \accent #1 #2\egroup \spacefactor 
+                                                  \accent@spacefactor 
+l.783 ...scription=\"created by layer 'input_1'\")
+                                                  , but it was called on an ...
+
+? 
+! Undefined control sequence.
+l.783 ...with incompatible shape (1, 128, 2596).\n
+                                                  ",
+? 
+
+LaTeX Warning: Command \" invalid in math mode on input line 784.
+
+! Please use \mathaccent for accents in math mode.
+\add@accent ... \let \ignorespaces \relax \accent 
+                                                  #1 #2\egroup \spacefactor ...
+l.784 ...nput_1'), name='input_1', description=\"c
+                                                  reated by layer 'input_1'\...
+
+? 
+! You can't use `\spacefactor' in math mode.
+\add@accent ... \accent #1 #2\egroup \spacefactor 
+                                                  \accent@spacefactor 
+l.784 ...nput_1'), name='input_1', description=\"c
+                                                  reated by layer 'input_1'\...
+
+? 
+
+LaTeX Warning: Command \" invalid in math mode on input line 784.
+
+! Please use \mathaccent for accents in math mode.
+\add@accent ... \let \ignorespaces \relax \accent 
+                                                  #1 #2\egroup \spacefactor ...
+l.784 ...scription=\"created by layer 'input_1'\")
+                                                  , but it was called on an ...
+
+? 
+! You can't use `\spacefactor' in math mode.
+\add@accent ... \accent #1 #2\egroup \spacefactor 
+                                                  \accent@spacefactor 
+l.784 ...scription=\"created by layer 'input_1'\")
+                                                  , but it was called on an ...
+
+? 
+! Undefined control sequence.
+l.784 ...with incompatible shape (1, 128, 2596).\n
+                                                  ",
+? 
+
+LaTeX Warning: Command \" invalid in math mode on input line 785.
+
+! Please use \mathaccent for accents in math mode.
+\add@accent ... \let \ignorespaces \relax \accent 
+                                                  #1 #2\egroup \spacefactor ...
+l.785 ...nput_1'), name='input_1', description=\"c
+                                                  reated by layer 'input_1'\...
+
+? 
+! You can't use `\spacefactor' in math mode.
+\add@accent ... \accent #1 #2\egroup \spacefactor 
+                                                  \accent@spacefactor 
+l.785 ...nput_1'), name='input_1', description=\"c
+                                                  reated by layer 'input_1'\...
+
+? 
+
+LaTeX Warning: Command \" invalid in math mode on input line 785.
+
+! Please use \mathaccent for accents in math mode.
+\add@accent ... \let \ignorespaces \relax \accent 
+                                                  #1 #2\egroup \spacefactor ...
+l.785 ...scription=\"created by layer 'input_1'\")
+                                                  , but it was called on an ...
+
+? 
+! You can't use `\spacefactor' in math mode.
+\add@accent ... \accent #1 #2\egroup \spacefactor 
+                                                  \accent@spacefactor 
+l.785 ...scription=\"created by layer 'input_1'\")
+                                                  , but it was called on an ...
+
+? 
+! Undefined control sequence.
+l.785 ...with incompatible shape (1, 128, 2596).\n
+                                                  ",
+? 
+
+LaTeX Warning: Command \" invalid in math mode on input line 786.
+
+! Please use \mathaccent for accents in math mode.
+\add@accent ... \let \ignorespaces \relax \accent 
+                                                  #1 #2\egroup \spacefactor ...
+l.786 ...nput_1'), name='input_1', description=\"c
+                                                  reated by layer 'input_1'\...
+
+? 
+! You can't use `\spacefactor' in math mode.
+\add@accent ... \accent #1 #2\egroup \spacefactor 
+                                                  \accent@spacefactor 
+l.786 ...nput_1'), name='input_1', description=\"c
+                                                  reated by layer 'input_1'\...
+
+? 
+
+LaTeX Warning: Command \" invalid in math mode on input line 786.
+
+! Please use \mathaccent for accents in math mode.
+\add@accent ... \let \ignorespaces \relax \accent 
+                                                  #1 #2\egroup \spacefactor ...
+l.786 ...scription=\"created by layer 'input_1'\")
+                                                  , but it was called on an ...
+
+? 
+! You can't use `\spacefactor' in math mode.
+\add@accent ... \accent #1 #2\egroup \spacefactor 
+                                                  \accent@spacefactor 
+l.786 ...scription=\"created by layer 'input_1'\")
+                                                  , but it was called on an ...
+
+? 
+! Undefined control sequence.
+l.786 ...with incompatible shape (1, 128, 2596).\n
+                                                  ",
+? 
+
+LaTeX Warning: Command \" invalid in math mode on input line 787.
+
+! Please use \mathaccent for accents in math mode.
+\add@accent ... \let \ignorespaces \relax \accent 
+                                                  #1 #2\egroup \spacefactor ...
+l.787 ...nput_1'), name='input_1', description=\"c
+                                                  reated by layer 'input_1'\...
+
+? 
+! You can't use `\spacefactor' in math mode.
+\add@accent ... \accent #1 #2\egroup \spacefactor 
+                                                  \accent@spacefactor 
+l.787 ...nput_1'), name='input_1', description=\"c
+                                                  reated by layer 'input_1'\...
+
+? 
+
+LaTeX Warning: Command \" invalid in math mode on input line 787.
+
+! Please use \mathaccent for accents in math mode.
+\add@accent ... \let \ignorespaces \relax \accent 
+                                                  #1 #2\egroup \spacefactor ...
+l.787 ...scription=\"created by layer 'input_1'\")
+                                                  , but it was called on an ...
+
+? 
+! You can't use `\spacefactor' in math mode.
+\add@accent ... \accent #1 #2\egroup \spacefactor 
+                                                  \accent@spacefactor 
+l.787 ...scription=\"created by layer 'input_1'\")
+                                                  , but it was called on an ...
+
+? 
+! Undefined control sequence.
+l.787 ...with incompatible shape (1, 128, 2596).\n
+                                                  ",
+? 
+
+LaTeX Warning: Command \" invalid in math mode on input line 788.
+
+! Please use \mathaccent for accents in math mode.
+\add@accent ... \let \ignorespaces \relax \accent 
+                                                  #1 #2\egroup \spacefactor ...
+l.788 ...nput_1'), name='input_1', description=\"c
+                                                  reated by layer 'input_1'\...
+
+? 
+! You can't use `\spacefactor' in math mode.
+\add@accent ... \accent #1 #2\egroup \spacefactor 
+                                                  \accent@spacefactor 
+l.788 ...nput_1'), name='input_1', description=\"c
+                                                  reated by layer 'input_1'\...
+
+? 
+
+LaTeX Warning: Command \" invalid in math mode on input line 788.
+
+! Please use \mathaccent for accents in math mode.
+\add@accent ... \let \ignorespaces \relax \accent 
+                                                  #1 #2\egroup \spacefactor ...
+l.788 ...scription=\"created by layer 'input_1'\")
+                                                  , but it was called on an ...
+
+? 
+! You can't use `\spacefactor' in math mode.
+\add@accent ... \accent #1 #2\egroup \spacefactor 
+                                                  \accent@spacefactor 
+l.788 ...scription=\"created by layer 'input_1'\")
+                                                  , but it was called on an ...
+
+? 
+! Undefined control sequence.
+l.788 ...with incompatible shape (1, 128, 2596).\n
+                                                  ",
+? 
+
+LaTeX Warning: Command \" invalid in math mode on input line 789.
+
+! Please use \mathaccent for accents in math mode.
+\add@accent ... \let \ignorespaces \relax \accent 
+                                                  #1 #2\egroup \spacefactor ...
+l.789 ...nput_1'), name='input_1', description=\"c
+                                                  reated by layer 'input_1'\...
+
+? 
+! You can't use `\spacefactor' in math mode.
+\add@accent ... \accent #1 #2\egroup \spacefactor 
+                                                  \accent@spacefactor 
+l.789 ...nput_1'), name='input_1', description=\"c
+                                                  reated by layer 'input_1'\...
+
+? 
+
+LaTeX Warning: Command \" invalid in math mode on input line 789.
+
+! Please use \mathaccent for accents in math mode.
+\add@accent ... \let \ignorespaces \relax \accent 
+                                                  #1 #2\egroup \spacefactor ...
+l.789 ...scription=\"created by layer 'input_1'\")
+                                                  , but it was called on an ...
+
+? 
+! You can't use `\spacefactor' in math mode.
+\add@accent ... \accent #1 #2\egroup \spacefactor 
+                                                  \accent@spacefactor 
+l.789 ...scription=\"created by layer 'input_1'\")
+                                                  , but it was called on an ...
+
+? 
+! Undefined control sequence.
+l.789 ...with incompatible shape (1, 128, 2596).\n
+                                                  ",
+? 
+
+LaTeX Warning: Command \" invalid in math mode on input line 790.
+
+! Please use \mathaccent for accents in math mode.
+\add@accent ... \let \ignorespaces \relax \accent 
+                                                  #1 #2\egroup \spacefactor ...
+l.790 ...nput_1'), name='input_1', description=\"c
+                                                  reated by layer 'input_1'\...
+
+? 
+! You can't use `\spacefactor' in math mode.
+\add@accent ... \accent #1 #2\egroup \spacefactor 
+                                                  \accent@spacefactor 
+l.790 ...nput_1'), name='input_1', description=\"c
+                                                  reated by layer 'input_1'\...
+
+? 
+
+LaTeX Warning: Command \" invalid in math mode on input line 790.
+
+! Please use \mathaccent for accents in math mode.
+\add@accent ... \let \ignorespaces \relax \accent 
+                                                  #1 #2\egroup \spacefactor ...
+l.790 ...scription=\"created by layer 'input_1'\")
+                                                  , but it was called on an ...
+
+? 
+! You can't use `\spacefactor' in math mode.
+\add@accent ... \accent #1 #2\egroup \spacefactor 
+                                                  \accent@spacefactor 
+l.790 ...scription=\"created by layer 'input_1'\")
+                                                  , but it was called on an ...
+
+? 
+! Undefined control sequence.
+l.790 ...with incompatible shape (1, 128, 2596).\n
+                                                  ",
+? 
+
+LaTeX Warning: Command \" invalid in math mode on input line 791.
+
+! Please use \mathaccent for accents in math mode.
+\add@accent ... \let \ignorespaces \relax \accent 
+                                                  #1 #2\egroup \spacefactor ...
+l.791 ...nput_1'), name='input_1', description=\"c
+                                                  reated by layer 'input_1'\...
+
+? 
+! You can't use `\spacefactor' in math mode.
+\add@accent ... \accent #1 #2\egroup \spacefactor 
+                                                  \accent@spacefactor 
+l.791 ...nput_1'), name='input_1', description=\"c
+                                                  reated by layer 'input_1'\...
+
+? 
+
+LaTeX Warning: Command \" invalid in math mode on input line 791.
+
+! Please use \mathaccent for accents in math mode.
+\add@accent ... \let \ignorespaces \relax \accent 
+                                                  #1 #2\egroup \spacefactor ...
+l.791 ...scription=\"created by layer 'input_1'\")
+                                                  , but it was called on an ...
+
+? 
+! You can't use `\spacefactor' in math mode.
+\add@accent ... \accent #1 #2\egroup \spacefactor 
+                                                  \accent@spacefactor 
+l.791 ...scription=\"created by layer 'input_1'\")
+                                                  , but it was called on an ...
+
+? 
+! Undefined control sequence.
+l.791 ...with incompatible shape (1, 128, 2596).\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.792 ...13min 40s, sys: 20.9 s, total: 14min 1s\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.793             "Wall time: 7min 27s\n
+                                        "
+? 
+! Undefined control sequence.
+l.809         "f, ax = plt.subplots()\n
+                                       ",
+? 
+! Undefined control sequence.
+l.810 ...n(losses)), losses, label='train loss')\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.811 ...losses)), val_losses, label='val loss')\n
+                                                  ",
+? 
+! You can't use `macro parameter character #' in math mode.
+l.850 ...enerated_samples = nfm.flow.sample(10)  #
+                                                   generative modeling\n",
+? 
+! Undefined control sequence.
+l.850 ....flow.sample(10)  # generative modeling\n
+                                                  ",
+? 
+! You can't use `macro parameter character #' in math mode.
+l.851 ...= nfm.flow.log_prob(generated_samples)  #
+                                                   probability density estim...
+
+? 
+! You can't use `macro parameter character #' in math mode.
+l.871 ...ols = tf.math.floor(generated_samples)  #
+                                                   quantize data\n",
+? 
+! Undefined control sequence.
+l.871 ...oor(generated_samples)  # quantize data\n
+                                                  ",
+? 
+! You can't use `macro parameter character #' in math mode.
+l.872 ...  "mols = tf.clip_by_value(mols, 0, 1)  #
+                                                   Set negative values to 0 ...
+
+? 
+! Undefined control sequence.
+l.872 ...egative values to 0 and values > 1 to 1\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.873         "mols_list = mols.numpy().tolist()\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.874         "\n
+                 ",
+? 
+! You can't use `macro parameter character #' in math mode.
+l.875         "#
+                 Add padding characters if needed\n",
+? 
+! Undefined control sequence.
+l.875 ...    "# Add padding characters if needed\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.876         "for mol in mols_list:\n
+                                      ",
+? 
+! Undefined control sequence.
+l.877 ... "  for i in range(largest_selfie_len):\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.878 ...) * i: len(selfies_alphabet) * (i + 1)]\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.879 ..."    if all(elem == 0 for elem in row):\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.920         "from rdkit import RDLogger  \n
+                                             ",
+? 
+! Undefined control sequence.
+l.921         "from rdkit import Chem\n
+                                       ",
+? 
+! You can't use `macro parameter character #' in math mode.
+l.922         "RDLogger.DisableLog('rdApp.*')  #
+                                                 suppress error messages\n",
+? 
+! Undefined control sequence.
+l.922 ...g('rdApp.*')  # suppress error messages\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.923         "\n
+                 ",
+? 
+! Undefined control sequence.
+l.924         "valid_count = 0\n
+                                ",
+? 
+! Undefined control sequence.
+l.925 ...valid_selfies, invalid_selfies = [], []\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.926 ...  "for idx, selfies in enumerate(mols):\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.927         "  try:\n
+                       ",
+? 
+! Undefined control sequence.
+l.928 ...mols[idx]), sanitize=True) is not None:\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.929         "        valid_count += 1\n
+                                         ",
+? 
+! Undefined control sequence.
+l.930 ... "        valid_selfies.append(selfies)\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.931         "    else:\n
+                          ",
+? 
+! Undefined control sequence.
+l.932 ... "      invalid_selfies.append(selfies)\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.933         "  except Exception:\n
+                                    ",
+? 
+! Undefined control sequence.
+l.934         "    pass\n
+                         ",
+? 
+! Undefined control sequence.
+l.978         "def display_images(filenames):\n
+                                               ",
+? 
+
+LaTeX Warning: Command \" invalid in math mode on input line 979.
+
+! You can't use a prefix with `end-group character }'.
+<to be read again> 
+                   \egroup 
+l.979         "    \"\"
+                       \"Helper to pretty-print images.\"\"\"\n",
+? 
+! Please use \mathaccent for accents in math mode.
+\add@accent ... \let \ignorespaces \relax \accent 
+                                                  #1 #2\egroup \spacefactor ...
+l.979         "    \"\"
+                       \"Helper to pretty-print images.\"\"\"\n",
+? 
+! Missing { inserted.
+<to be read again> 
+                   \begingroup 
+l.979         "    \"\"
+                       \"Helper to pretty-print images.\"\"\"\n",
+? 
+
+LaTeX Warning: Command \" invalid in math mode on input line 979.
+
+! Improper \spacefactor.
+<recently read> \spacefactor 
+                             
+l.979         "    \"\"
+                       \"Helper to pretty-print images.\"\"\"\n",
+? 
+! Please use \mathaccent for accents in math mode.
+\add@accent ... \let \ignorespaces \relax \accent 
+                                                  #1 #2\egroup \spacefactor ...
+l.979         "    \"\"
+                       \"Helper to pretty-print images.\"\"\"\n",
+? 
+! Missing { inserted.
+<to be read again> 
+                   \egroup 
+l.979         "    \"\"
+                       \"Helper to pretty-print images.\"\"\"\n",
+? 
+! You can't use `\spacefactor' in math mode.
+\add@accent ... \accent #1 #2\egroup \spacefactor 
+                                                  \accent@spacefactor 
+l.979         "    \"\"
+                       \"Helper to pretty-print images.\"\"\"\n",
+? 
+! You can't use `\spacefactor' in math mode.
+\add@accent ... \accent #1 #2\egroup \spacefactor 
+                                                  \accent@spacefactor 
+l.979         "    \"\"
+                       \"Helper to pretty-print images.\"\"\"\n",
+? 
+
+LaTeX Warning: Command \" invalid in math mode on input line 979.
+
+! Please use \mathaccent for accents in math mode.
+\add@accent ... \let \ignorespaces \relax \accent 
+                                                  #1 #2\egroup \spacefactor ...
+l.979         "    \"\"\"H
+                          elper to pretty-print images.\"\"\"\n",
+? 
+! You can't use `\spacefactor' in math mode.
+\add@accent ... \accent #1 #2\egroup \spacefactor 
+                                                  \accent@spacefactor 
+l.979         "    \"\"\"H
+                          elper to pretty-print images.\"\"\"\n",
+? 
+
+LaTeX Warning: Command \" invalid in math mode on input line 979.
+
+! You can't use a prefix with `end-group character }'.
+<to be read again> 
+                   \egroup 
+l.979 ... \"\"\"Helper to pretty-print images.\"\"
+                                                  \"\n",
+? 
+! Please use \mathaccent for accents in math mode.
+\add@accent ... \let \ignorespaces \relax \accent 
+                                                  #1 #2\egroup \spacefactor ...
+l.979 ... \"\"\"Helper to pretty-print images.\"\"
+                                                  \"\n",
+? 
+! Missing { inserted.
+<to be read again> 
+                   \begingroup 
+l.979 ... \"\"\"Helper to pretty-print images.\"\"
+                                                  \"\n",
+? 
+
+LaTeX Warning: Command \" invalid in math mode on input line 979.
+
+! Improper \spacefactor.
+<recently read> \spacefactor 
+                             
+l.979 ... \"\"\"Helper to pretty-print images.\"\"
+                                                  \"\n",
+? 
+! Please use \mathaccent for accents in math mode.
+\add@accent ... \let \ignorespaces \relax \accent 
+                                                  #1 #2\egroup \spacefactor ...
+l.979 ... \"\"\"Helper to pretty-print images.\"\"
+                                                  \"\n",
+? 
+! Missing { inserted.
+<to be read again> 
+                   \egroup 
+l.979 ... \"\"\"Helper to pretty-print images.\"\"
+                                                  \"\n",
+? 
+! You can't use `\spacefactor' in math mode.
+\add@accent ... \accent #1 #2\egroup \spacefactor 
+                                                  \accent@spacefactor 
+l.979 ... \"\"\"Helper to pretty-print images.\"\"
+                                                  \"\n",
+? 
+! You can't use `\spacefactor' in math mode.
+\add@accent ... \accent #1 #2\egroup \spacefactor 
+                                                  \accent@spacefactor 
+l.979 ... \"\"\"Helper to pretty-print images.\"\"
+                                                  \"\n",
+? 
+
+LaTeX Warning: Command \" invalid in math mode on input line 979.
+
+! Undefined control sequence.
+<argument> \n 
+              
+l.979 ..."\"Helper to pretty-print images.\"\"\"\n
+                                                  ",
+? 
+! Please use \mathaccent for accents in math mode.
+\add@accent ... \let \ignorespaces \relax \accent 
+                                                  #1 #2\egroup \spacefactor ...
+l.979 ..."\"Helper to pretty-print images.\"\"\"\n
+                                                  ",
+? 
+! Undefined control sequence.
+<argument> \n 
+              
+l.979 ..."\"Helper to pretty-print images.\"\"\"\n
+                                                  ",
+? 
+! Missing { inserted.
+<to be read again> 
+                   \egroup 
+l.979 ..."\"Helper to pretty-print images.\"\"\"\n
+                                                  ",
+? 
+! You can't use `\spacefactor' in math mode.
+\add@accent ... \accent #1 #2\egroup \spacefactor 
+                                                  \accent@spacefactor 
+l.979 ..."\"Helper to pretty-print images.\"\"\"\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.980         "    for file in filenames:\n
+                                           ",
+? 
+! Undefined control sequence.
+l.981         "      display(Image(file))\n
+                                           ",
+? 
+! Undefined control sequence.
+l.982         "\n
+                 ",
+? 
+
+LaTeX Warning: Command \" invalid in math mode on input line 983.
+
+! Please use \mathaccent for accents in math mode.
+\add@accent ... \let \ignorespaces \relax \accent 
+                                                  #1 #2\egroup \spacefactor ...
+l.983         "def mols_to_pngs(mols, basename=\"g
+                                                  enerated_mol\"):\n",
+? 
+! You can't use `\spacefactor' in math mode.
+\add@accent ... \accent #1 #2\egroup \spacefactor 
+                                                  \accent@spacefactor 
+l.983         "def mols_to_pngs(mols, basename=\"g
+                                                  enerated_mol\"):\n",
+? 
+
+LaTeX Warning: Command \" invalid in math mode on input line 983.
+
+! Please use \mathaccent for accents in math mode.
+\add@accent ... \let \ignorespaces \relax \accent 
+                                                  #1 #2\egroup \spacefactor ...
+l.983 ...to_pngs(mols, basename=\"generated_mol\")
+                                                  :\n",
+? 
+! You can't use `\spacefactor' in math mode.
+\add@accent ... \accent #1 #2\egroup \spacefactor 
+                                                  \accent@spacefactor 
+l.983 ...to_pngs(mols, basename=\"generated_mol\")
+                                                  :\n",
+? 
+! Undefined control sequence.
+l.983 ...pngs(mols, basename=\"generated_mol\"):\n
+                                                  ",
+? 
+
+LaTeX Warning: Command \" invalid in math mode on input line 984.
+
+! You can't use a prefix with `end-group character }'.
+<to be read again> 
+                   \egroup 
+l.984         "    \"\"
+                       \"Helper to write RDKit mols to png files.\"\"\"\n",
+? 
+! Please use \mathaccent for accents in math mode.
+\add@accent ... \let \ignorespaces \relax \accent 
+                                                  #1 #2\egroup \spacefactor ...
+l.984         "    \"\"
+                       \"Helper to write RDKit mols to png files.\"\"\"\n",
+? 
+! Missing { inserted.
+<to be read again> 
+                   \begingroup 
+l.984         "    \"\"
+                       \"Helper to write RDKit mols to png files.\"\"\"\n",
+? 
+
+LaTeX Warning: Command \" invalid in math mode on input line 984.
+
+! Improper \spacefactor.
+<recently read> \spacefactor 
+                             
+l.984         "    \"\"
+                       \"Helper to write RDKit mols to png files.\"\"\"\n",
+? 
+! Please use \mathaccent for accents in math mode.
+\add@accent ... \let \ignorespaces \relax \accent 
+                                                  #1 #2\egroup \spacefactor ...
+l.984         "    \"\"
+                       \"Helper to write RDKit mols to png files.\"\"\"\n",
+? 
+! Missing { inserted.
+<to be read again> 
+                   \egroup 
+l.984         "    \"\"
+                       \"Helper to write RDKit mols to png files.\"\"\"\n",
+? 
+! You can't use `\spacefactor' in math mode.
+\add@accent ... \accent #1 #2\egroup \spacefactor 
+                                                  \accent@spacefactor 
+l.984         "    \"\"
+                       \"Helper to write RDKit mols to png files.\"\"\"\n",
+? 
+! You can't use `\spacefactor' in math mode.
+\add@accent ... \accent #1 #2\egroup \spacefactor 
+                                                  \accent@spacefactor 
+l.984         "    \"\"
+                       \"Helper to write RDKit mols to png files.\"\"\"\n",
+? 
+
+LaTeX Warning: Command \" invalid in math mode on input line 984.
+
+! Please use \mathaccent for accents in math mode.
+\add@accent ... \let \ignorespaces \relax \accent 
+                                                  #1 #2\egroup \spacefactor ...
+l.984         "    \"\"\"H
+                          elper to write RDKit mols to png files.\"\"\"\n",
+? 
+! You can't use `\spacefactor' in math mode.
+\add@accent ... \accent #1 #2\egroup \spacefactor 
+                                                  \accent@spacefactor 
+l.984         "    \"\"\"H
+                          elper to write RDKit mols to png files.\"\"\"\n",
+? 
+
+LaTeX Warning: Command \" invalid in math mode on input line 984.
+
+! You can't use a prefix with `end-group character }'.
+<to be read again> 
+                   \egroup 
+l.984 ...per to write RDKit mols to png files.\"\"
+                                                  \"\n",
+? 
+! Please use \mathaccent for accents in math mode.
+\add@accent ... \let \ignorespaces \relax \accent 
+                                                  #1 #2\egroup \spacefactor ...
+l.984 ...per to write RDKit mols to png files.\"\"
+                                                  \"\n",
+? 
+! Missing { inserted.
+<to be read again> 
+                   \begingroup 
+l.984 ...per to write RDKit mols to png files.\"\"
+                                                  \"\n",
+? 
+
+LaTeX Warning: Command \" invalid in math mode on input line 984.
+
+! Improper \spacefactor.
+<recently read> \spacefactor 
+                             
+l.984 ...per to write RDKit mols to png files.\"\"
+                                                  \"\n",
+? 
+! Please use \mathaccent for accents in math mode.
+\add@accent ... \let \ignorespaces \relax \accent 
+                                                  #1 #2\egroup \spacefactor ...
+l.984 ...per to write RDKit mols to png files.\"\"
+                                                  \"\n",
+? 
+! Missing { inserted.
+<to be read again> 
+                   \egroup 
+l.984 ...per to write RDKit mols to png files.\"\"
+                                                  \"\n",
+? 
+! You can't use `\spacefactor' in math mode.
+\add@accent ... \accent #1 #2\egroup \spacefactor 
+                                                  \accent@spacefactor 
+l.984 ...per to write RDKit mols to png files.\"\"
+                                                  \"\n",
+? 
+! You can't use `\spacefactor' in math mode.
+\add@accent ... \accent #1 #2\egroup \spacefactor 
+                                                  \accent@spacefactor 
+l.984 ...per to write RDKit mols to png files.\"\"
+                                                  \"\n",
+? 
+
+LaTeX Warning: Command \" invalid in math mode on input line 984.
+
+! Undefined control sequence.
+<argument> \n 
+              
+l.984 ...to write RDKit mols to png files.\"\"\"\n
+                                                  ",
+? 
+! Please use \mathaccent for accents in math mode.
+\add@accent ... \let \ignorespaces \relax \accent 
+                                                  #1 #2\egroup \spacefactor ...
+l.984 ...to write RDKit mols to png files.\"\"\"\n
+                                                  ",
+? 
+! Undefined control sequence.
+<argument> \n 
+              
+l.984 ...to write RDKit mols to png files.\"\"\"\n
+                                                  ",
+? 
+! Missing { inserted.
+<to be read again> 
+                   \egroup 
+l.984 ...to write RDKit mols to png files.\"\"\"\n
+                                                  ",
+? 
+! You can't use `\spacefactor' in math mode.
+\add@accent ... \accent #1 #2\egroup \spacefactor 
+                                                  \accent@spacefactor 
+l.984 ...to write RDKit mols to png files.\"\"\"\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.985         "    filenames = []\n
+                                   ",
+? 
+! Undefined control sequence.
+l.986 ...    "    for i, mol in enumerate(mols):\n
+                                                  ",
+? 
+
+LaTeX Warning: Command \" invalid in math mode on input line 987.
+
+! Please use \mathaccent for accents in math mode.
+\add@accent ... \let \ignorespaces \relax \accent 
+                                                  #1 #2\egroup \spacefactor ...
+l.988         "
+                       Draw.MolToFile(mol, filename)\n",
+? 
+! You can't use `\spacefactor' in math mode.
+\add@accent ... \accent #1 #2\egroup \spacefactor 
+                                                  \accent@spacefactor 
+l.988         "
+                       Draw.MolToFile(mol, filename)\n",
+? 
+! Undefined control sequence.
+l.988 ... "        Draw.MolToFile(mol, filename)\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.989 ...    "        filenames.append(filename)\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.1001         "display_mols = []\n
+                                   ",
+? 
+! Undefined control sequence.
+l.1002         "for i in range(10):\n
+                                     ",
+? 
+! Undefined control sequence.
+l.1003 ...   "  display_mols.append(gen_mols[i])\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.1004         "\n
+                  ",
+? 
+
+LaTeX Warning: Command \" invalid in math mode on input line 1121.
+
+! Please use \mathaccent for accents in math mode.
+\add@accent ... \let \ignorespaces \relax \accent 
+                                                  #1 #2\egroup \spacefactor ...
+l.1121 ...ity. This gives an indication of how \"o
+                                                  riginal\" the generated sa...
+
+? 
+! You can't use `\spacefactor' in math mode.
+\add@accent ... \accent #1 #2\egroup \spacefactor 
+                                                  \accent@spacefactor 
+l.1121 ...ity. This gives an indication of how \"o
+                                                  riginal\" the generated sa...
+
+? 
+
+LaTeX Warning: Command \" invalid in math mode on input line 1121.
+
+! Please use \mathaccent for accents in math mode.
+\add@accent ... \let \ignorespaces \relax \accent 
+                                                  #1 #2\egroup \spacefactor ...
+l.1121 ...ives an indication of how \"original\" t
+                                                  he generated samples are, ...
+
+? 
+! You can't use `\spacefactor' in math mode.
+\add@accent ... \accent #1 #2\egroup \spacefactor 
+                                                  \accent@spacefactor 
+l.1121 ...ives an indication of how \"original\" t
+                                                  he generated samples are, ...
+
+? 
+! Undefined control sequence.
+l.1131 ....FingerprintMols import FingerprintMol\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.1132 ...taStructs import FingerprintSimilarity\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.1133 ...  "from IPython.display import display\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.1134         "\n
+                  ",
+? 
+! Undefined control sequence.
+l.1135 ..._similarity(database_mols, query_mol):\n
+                                                  ",
+? 
+
+LaTeX Warning: Command \" invalid in math mode on input line 1136.
+
+! You can't use a prefix with `end-group character }'.
+<to be read again> 
+                   \egroup 
+l.1136         "    \"\"
+                        \"Compare generated molecules to database by Tanimot...
+
+? 
+! Please use \mathaccent for accents in math mode.
+\add@accent ... \let \ignorespaces \relax \accent 
+                                                  #1 #2\egroup \spacefactor ...
+l.1136         "    \"\"
+                        \"Compare generated molecules to database by Tanimot...
+
+? 
+! Missing { inserted.
+<to be read again> 
+                   \begingroup 
+l.1136         "    \"\"
+                        \"Compare generated molecules to database by Tanimot...
+
+? 
+
+LaTeX Warning: Command \" invalid in math mode on input line 1136.
+
+! Improper \spacefactor.
+<recently read> \spacefactor 
+                             
+l.1136         "    \"\"
+                        \"Compare generated molecules to database by Tanimot...
+
+? 
+! Please use \mathaccent for accents in math mode.
+\add@accent ... \let \ignorespaces \relax \accent 
+                                                  #1 #2\egroup \spacefactor ...
+l.1136         "    \"\"
+                        \"Compare generated molecules to database by Tanimot...
+
+? 
+! Missing { inserted.
+<to be read again> 
+                   \egroup 
+l.1136         "    \"\"
+                        \"Compare generated molecules to database by Tanimot...
+
+? 
+! You can't use `\spacefactor' in math mode.
+\add@accent ... \accent #1 #2\egroup \spacefactor 
+                                                  \accent@spacefactor 
+l.1136         "    \"\"
+                        \"Compare generated molecules to database by Tanimot...
+
+? 
+! You can't use `\spacefactor' in math mode.
+\add@accent ... \accent #1 #2\egroup \spacefactor 
+                                                  \accent@spacefactor 
+l.1136         "    \"\"
+                        \"Compare generated molecules to database by Tanimot...
+
+? 
+
+LaTeX Warning: Command \" invalid in math mode on input line 1136.
+
+! Please use \mathaccent for accents in math mode.
+\add@accent ... \let \ignorespaces \relax \accent 
+                                                  #1 #2\egroup \spacefactor ...
+l.1136         "    \"\"\"C
+                           ompare generated molecules to database by Tanimot...
+
+? 
+! You can't use `\spacefactor' in math mode.
+\add@accent ... \accent #1 #2\egroup \spacefactor 
+                                                  \accent@spacefactor 
+l.1136         "    \"\"\"C
+                           ompare generated molecules to database by Tanimot...
+
+? 
+
+LaTeX Warning: Command \" invalid in math mode on input line 1136.
+
+! You can't use a prefix with `end-group character }'.
+<to be read again> 
+                   \egroup 
+l.1136 ... to database by Tanimoto similarity.\"\"
+                                                  \"\n",
+? 
+! Please use \mathaccent for accents in math mode.
+\add@accent ... \let \ignorespaces \relax \accent 
+                                                  #1 #2\egroup \spacefactor ...
+l.1136 ... to database by Tanimoto similarity.\"\"
+                                                  \"\n",
+? 
+! Missing { inserted.
+<to be read again> 
+                   \begingroup 
+l.1136 ... to database by Tanimoto similarity.\"\"
+                                                  \"\n",
+? 
+
+LaTeX Warning: Command \" invalid in math mode on input line 1136.
+
+! Improper \spacefactor.
+<recently read> \spacefactor 
+                             
+l.1136 ... to database by Tanimoto similarity.\"\"
+                                                  \"\n",
+? 
+! Please use \mathaccent for accents in math mode.
+\add@accent ... \let \ignorespaces \relax \accent 
+                                                  #1 #2\egroup \spacefactor ...
+l.1136 ... to database by Tanimoto similarity.\"\"
+                                                  \"\n",
+? 
+! Missing { inserted.
+<to be read again> 
+                   \egroup 
+l.1136 ... to database by Tanimoto similarity.\"\"
+                                                  \"\n",
+? 
+! You can't use `\spacefactor' in math mode.
+\add@accent ... \accent #1 #2\egroup \spacefactor 
+                                                  \accent@spacefactor 
+l.1136 ... to database by Tanimoto similarity.\"\"
+                                                  \"\n",
+? 
+! You can't use `\spacefactor' in math mode.
+\add@accent ... \accent #1 #2\egroup \spacefactor 
+                                                  \accent@spacefactor 
+l.1136 ... to database by Tanimoto similarity.\"\"
+                                                  \"\n",
+? 
+
+LaTeX Warning: Command \" invalid in math mode on input line 1136.
+
+! Undefined control sequence.
+<argument> \n 
+              
+l.1136 ...database by Tanimoto similarity.\"\"\"\n
+                                                  ",
+? 
+! Please use \mathaccent for accents in math mode.
+\add@accent ... \let \ignorespaces \relax \accent 
+                                                  #1 #2\egroup \spacefactor ...
+l.1136 ...database by Tanimoto similarity.\"\"\"\n
+                                                  ",
+? 
+! Undefined control sequence.
+<argument> \n 
+              
+l.1136 ...database by Tanimoto similarity.\"\"\"\n
+                                                  ",
+? 
+! Missing { inserted.
+<to be read again> 
+                   \egroup 
+l.1136 ...database by Tanimoto similarity.\"\"\"\n
+                                                  ",
+? 
+! You can't use `\spacefactor' in math mode.
+\add@accent ... \accent #1 #2\egroup \spacefactor 
+                                                  \accent@spacefactor 
+l.1136 ...database by Tanimoto similarity.\"\"\"\n
+                                                  ",
+? 
+! You can't use `macro parameter character #' in math mode.
+l.1137         "    #
+                      convert Mol to datastructure type\n",
+? 
+! Undefined control sequence.
+l.1137 ...   # convert Mol to datastructure type\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.1138 ...gerprintMol(m) for m in database_mols]\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.1139         "    \n
+                      ",
+? 
+! You can't use `macro parameter character #' in math mode.
+l.1140         "    #
+                      set a query molecule to compare against database\n",
+? 
+! Undefined control sequence.
+l.1140 ...y molecule to compare against database\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.1141 ..."    query = FingerprintMol(query_mol)\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.1142         "    \n
+                      ",
+? 
+! Undefined control sequence.
+l.1143         "    similarities = []\n
+                                       ",
+? 
+! Undefined control sequence.
+l.1144         "    \n
+                      ",
+? 
+! You can't use `macro parameter character #' in math mode.
+l.1145         "    #
+                      loop through to find Tanimoto similarity\n",
+? 
+! Undefined control sequence.
+l.1145 ...op through to find Tanimoto similarity\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.1146 ...    "    for idx, f in enumerate(fps):\n
+                                                  ",
+? 
+! You can't use `macro parameter character #' in math mode.
+l.1147         "        #
+                          tuple: (idx, similarity)\n",
+? 
+! Undefined control sequence.
+l.1147 ...   "        # tuple: (idx, similarity)\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.1148 ...idx, FingerprintSimilarity(query, f)))\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.1149         "    \n
+                      ",
+? 
+! You can't use `macro parameter character #' in math mode.
+l.1150         "    #
+                      sort sim using the similarities\n",
+? 
+! Undefined control sequence.
+l.1150 ..."    # sort sim using the similarities\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.1151 ....sort(key=lambda x:x[1], reverse=True)\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.1152         "    \n
+                      ",
+? 
+! You can't use `macro parameter character #' in math mode.
+l.1184         "#
+                  change the second argument to compare different generated ...
+
+? 
+! Undefined control sequence.
+l.1184 ...e different generated molecules to QM9\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.1185 ...to_similarity(train_mols, gen_mols[3])\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.1197 ...  "for idx, ts in tanimoto_scores[:3]:\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.1198         "    print(round(ts, 3))\n
+                                         ",
+? 
+! Undefined control sequence.
+l.1199 ...  similar_mols.append(train_mols[idx])\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.1200         "\n
+                  ",
+? 
+! Undefined control sequence.
+l.1208             "0.521\n
+                           ",
+? 
+! Undefined control sequence.
+l.1209             "0.471\n
+                           ",
+? 
+! Undefined control sequence.
+l.1210             "0.468\n
+                           "
+? 
+! You can't use `macro parameter character #' in math mode.
+l.1256         "#
+                 ##Molecules of the previous tutorial:\n",
+? 
+! You can't use `macro parameter character #' in math mode.
+l.1256         "##
+                  #Molecules of the previous tutorial:\n",
+? 
+! You can't use `macro parameter character #' in math mode.
+l.1256         "###
+                   Molecules of the previous tutorial:\n",
+? 
+! Undefined control sequence.
+l.1256 ...###Molecules of the previous tutorial:\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.1257         "\n
+                  ",
+? 
+! Undefined control sequence.
+l.1258 ...MCAFj/wc5xAJRl7JRQwAAAABJRU5ErkJggg==)\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.1259         "\n
+                  ",
+? 
+! Undefined control sequence.
+l.1260 ...MCAFj/we3FY6gRVFWgAAAAABJRU5ErkJggg==)\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.1261         "\n
+                  ",
+? 
+! Undefined control sequence.
+l.1262 ...EESEg7P9nu820aqimUwAAAABJRU5ErkJggg==)\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.1263         "\n
+                  ",
+? 
+! Undefined control sequence.
+l.1264 ...EgBkRAmb/Boxn28bYOvj0AAAAAElFTkSuQmCC)\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.1265         "\n
+                  ",
+? 
+! Undefined control sequence.
+l.1266 ...CxogQMPY/IGmHt1Jh6UYAAAAASUVORK5CYII=)\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.1267         "\n
+                  ",
+? 
+! Undefined control sequence.
+l.1268 ...KiBBQ9v/jNXabAl8XlgAAAABJRU5ErkJggg==)\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.1269         "\n
+                  ",
+? 
+! Undefined control sequence.
+l.1270 ...SxgiJhP0fQCN1SHcnXJsAAAAASUVORK5CYII=)\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.1271         "\n
+                  ",
+? 
+! Undefined control sequence.
+l.1272 ...EnBEh4Oz/FC57s6EZGMsAAAAASUVORK5CYII=)\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.1273         "\n
+                  ",
+? 
+! Undefined control sequence.
+l.1274 ...ZEQLK/g8ky7Ttlj5YaAAAAABJRU5ErkJggg==)\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.1275         "\n
+                  ",
+? 
+! Undefined control sequence.
+l.1276 ...AzBAhALP/B4TEqHR9xbfMAAAAAElFTkSuQmCC)\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.1277         "\n
+                  ",
+? 
+! Undefined control sequence.
+l.1278         "\n
+                  ",
+? 
+! Undefined control sequence.
+l.1279 ...ecules were obteined through sampling.\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.1280         "\n
+                  ",
+? 
+! Undefined control sequence.
+l.1281 ...omparing with the tanimoto similarity:\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.1282         "\n
+                  ",
+? 
+! Undefined control sequence.
+l.1283 ...BY0QIGPsfwQFEbwWo3UAAAAAASUVORK5CYII=)\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.1284         "\n
+                  ",
+? 
+! Undefined control sequence.
+l.1285 ...CGCGRsP8D4ReEl+hJYSEAAAAASUVORK5CYII=)\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.1286         "\n
+                  ",
+? 
+! Undefined control sequence.
+l.1287 ...TIYSJEML+AeIEvZw/xHFhAAAAAElFTkSuQmCC)\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.1288         "\n
+                  ",
+? 
+! Undefined control sequence.
+l.1289         "With scores of:\n
+                                 ",
+? 
+! Undefined control sequence.
+l.1290         "- 0.243\n
+                         ",
+? 
+! Undefined control sequence.
+l.1291         "- 0.243\n
+                         ",
+? 
+! You can't use `macro parameter character #' in math mode.
+l.1301         "#
+                 ## Further reading\n",
+? 
+! You can't use `macro parameter character #' in math mode.
+l.1301         "##
+                  # Further reading\n",
+? 
+! You can't use `macro parameter character #' in math mode.
+l.1301         "###
+                    Further reading\n",
+? 
+! Undefined control sequence.
+l.1301         "### Further reading\n
+                                     ",
+? 
+! Undefined control sequence.
+l.1302         "\n
+                  ",
+? 
+! Undefined control sequence.
+l.1303 ...https://arxiv.org/pdf/1811.09621.pdf).\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.1304         "\n
+                  ",
+? 
+! Undefined control sequence.
+l.1305 ...ere the workflow is crearly explained.\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.1306         "\n
+                  ",
+? 
+! You can't use `macro parameter character #' in math mode.
+l.1316         "#
+                  Congratulations! Time to join the Community!\n",
+? 
+! Undefined control sequence.
+l.1316 ...tulations! Time to join the Community!\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.1317         "\n
+                  ",
+? 
+! Undefined control sequence.
+l.1318 ...pChem community in the following ways:\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.1319         "\n
+                  ",
+? 
+! You can't use `macro parameter character #' in math mode.
+l.1320         "#
+                 # Star DeepChem on [GitHub](https://github.com/deepchem/dee...
+
+? 
+! You can't use `macro parameter character #' in math mode.
+l.1320         "##
+                   Star DeepChem on [GitHub](https://github.com/deepchem/dee...
+
+? 
+! Undefined control sequence.
+l.1320 ...(https://github.com/deepchem/deepchem)\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.1321 ... discovery that we're trying to build.\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.1322         "\n
+                  ",
+? 
+! You can't use `macro parameter character #' in math mode.
+l.1323         "#
+                 # Join the DeepChem Gitter\n",
+? 
+! You can't use `macro parameter character #' in math mode.
+l.1323         "##
+                   Join the DeepChem Gitter\n",
+? 
+! Undefined control sequence.
+l.1323         "## Join the DeepChem Gitter\n
+                                             ",
+? 
+)
+*
+! Missing $ inserted.
+<inserted text> 
+                $
+<*> 
+    
+? 
+! Missing } inserted.
+<inserted text> 
+                }
+<*> 
+    
+? 
+! Missing } inserted.
+<inserted text> 
+                }
+<*> 
+    
+? 
+! Missing } inserted.
+<inserted text> 
+                }
+<*> 
+    
+? 
+! Missing } inserted.
+<inserted text> 
+                }
+<*> 
+    
+? 
+! Missing } inserted.
+<inserted text> 
+                }
+<*> 
+    
+? 
+! Missing } inserted.
+<inserted text> 
+                }
+<*> 
+    
+? 
+! Missing } inserted.
+<inserted text> 
+                }
+<*> 
+    
+? 
+! Missing } inserted.
+<inserted text> 
+                }
+<*> 
+    
+? 
+Missing character: There is no è in font cmex10!
+Missing character: There is no è in font cmex10!
+Missing character: There is no è in font cmex10!
+Missing character: There is no è in font cmex10!
+Missing character: There is no è in font cmex10!
+Missing character: There is no è in font cmex10!
+Missing character: There is no è in font cmex10!
+Missing character: There is no è in font cmex10!
+Missing character: There is no è in font cmex10!
+Missing character: There is no è in font cmex10!
+Missing character: There is no è in font cmex10!
+Missing character: There is no è in font cmex10!
+Missing character: There is no è in font cmex10!
+Missing character: There is no è in font cmex10!
+Missing character: There is no è in font cmex10!
+Missing character: There is no è in font cmex10!
+Missing character: There is no è in font cmex10!
+Missing character: There is no è in font cmex10!
+Missing character: There is no è in font cmex10!
+Missing character: There is no è in font cmex10!
+Missing character: There is no è in font cmex10!
+Missing character: There is no è in font cmex10!
+Missing character: There is no è in font cmex10!
+Missing character: There is no è in font cmex10!
+Missing character: There is no è in font cmex10!
+Missing character: There is no è in font cmex10!
+Missing character: There is no è in font cmex10!
+Missing character: There is no è in font cmex10!
+Missing character: There is no è in font cmex10!
+Missing character: There is no è in font cmex10!
+Missing character: There is no è in font cmex10!
+Missing character: There is no è in font cmex10!
+Missing character: There is no è in font cmex10!
+Missing character: There is no è in font cmex10!
+Missing character: There is no è in font cmex10!
+Missing character: There is no è in font cmex10!
+Missing character: There is no è in font cmex10!
+Missing character: There is no è in font cmex10!
+Missing character: There is no è in font cmex10!
+Missing character: There is no è in font cmex10!
+Missing character: There is no è in font cmex10!
+Missing character: There is no è in font cmex10!
+Missing character: There is no è in font cmex10!
+Missing character: There is no è in font cmex10!
+Missing character: There is no è in font cmex10!
+Missing character: There is no è in font cmex10!
+Missing character: There is no è in font cmex10!
+Missing character: There is no è in font cmex10!
+Missing character: There is no è in font cmex10!
+Missing character: There is no è in font cmex10!
+Missing character: There is no è in font cmex10!
+Missing character: There is no è in font cmex10!
+Missing character: There is no è in font cmex10!
+Missing character: There is no è in font cmex10!
+Missing character: There is no è in font cmex10!
+Missing character: There is no è in font cmex10!
+Missing character: There is no è in font cmex10!
+Missing character: There is no è in font cmex10!
+Missing character: There is no è in font cmex10!
+Missing character: There is no è in font cmex10!
+Missing character: There is no è in font cmex10!
+Missing character: There is no è in font cmex10!
+Missing character: There is no è in font cmex10!
+Missing character: There is no è in font cmex10!
+Missing character: There is no è in font cmex10!
+Missing character: There is no è in font cmex10!
+Missing character: There is no è in font cmex10!
+Missing character: There is no è in font cmex10!
+Missing character: There is no è in font cmex10!
+Missing character: There is no ç in font cmex10!
+Missing character: There is no è in font cmex10!
+Missing character: There is no è in font cmex10!
+Missing character: There is no è in font cmex10!
+Missing character: There is no ç in font cmex10!
+Missing character: There is no è in font cmex10!
+Missing character: There is no è in font cmex10!
+Missing character: There is no è in font cmex10!
+Missing character: There is no è in font cmex10!
+Missing character: There is no ç in font cmex10!
+Missing character: There is no è in font cmex10!
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*y
+
+*yes
+
+*exit
+
+*help
+
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*\end
+
+*end
+
+! LaTeX Error: \begin{document} ended by \end{e}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+<*> e
+     nd
+? H
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+? 
+! Missing } inserted.
+<inserted text> 
+                }
+<*> e
+     nd
+? 
+! Missing } inserted.
+<inserted text> 
+                }
+<*> e
+     nd
+? 
+! Missing } inserted.
+<inserted text> 
+                }
+<*> e
+     nd
+? 
+! Missing } inserted.
+<inserted text> 
+                }
+<*> e
+     nd
+? 
+! Missing } inserted.
+<inserted text> 
+                }
+<*> e
+     nd
+? 
+! Missing } inserted.
+<inserted text> 
+                }
+<*> e
+     nd
+? 
+! Missing } inserted.
+<inserted text> 
+                }
+<*> e
+     nd
+? 
+! Missing } inserted.
+<inserted text> 
+                }
+<*> e
+     nd
+? 
+! Missing } inserted.
+<inserted text> 
+                }
+<*> e
+     nd
+? 
+! Missing } inserted.
+<inserted text> 
+                }
+<*> e
+     nd
+? 
+! Missing } inserted.
+<inserted text> 
+                }
+<*> e
+     nd
+? 
+! Missing } inserted.
+<inserted text> 
+                }
+<*> e
+     nd
+? 
+! Missing } inserted.
+<inserted text> 
+                }
+<*> e
+     nd
+? 
+! Missing $ inserted.
+<inserted text> 
+                $
+<*> e
+     nd
+? 
+Missing character: There is no è in font cmex10!
+Missing character: There is no è in font cmex10!
+Missing character: There is no è in font cmex10!
+Missing character: There is no è in font cmex10!
+Missing character: There is no è in font cmex10!
+Missing character: There is no è in font cmex10!
+Missing character: There is no è in font cmex10!
+Missing character: There is no è in font cmex10!
+Missing character: There is no è in font cmex10!
+Missing character: There is no è in font cmex10!
+Missing character: There is no è in font cmex10!
+Missing character: There is no è in font cmex10!
+Missing character: There is no è in font cmex10!
+Missing character: There is no è in font cmex10!
+Missing character: There is no è in font cmex10!
+Missing character: There is no è in font cmex10!
+Missing character: There is no ç in font cmex10!
+Missing character: There is no è in font cmex10!
+Missing character: There is no è in font cmex10!
+Missing character: There is no è in font cmex10!
+Missing character: There is no è in font cmex10!
+Missing character: There is no è in font cmex10!
+Missing character: There is no è in font cmex10!
+Missing character: There is no è in font cmex10!
+Missing character: There is no è in font cmex10!
+Missing character: There is no è in font cmex10!
+Missing character: There is no è in font cmex10!
+Missing character: There is no è in font cmex10!
+Missing character: There is no ç in font cmex10!
+Missing character: There is no è in font cmex10!
+Missing character: There is no è in font cmex10!
+Missing character: There is no è in font cmex10!
+Missing character: There is no ç in font cmex10!
+Missing character: There is no è in font cmex10!
+Missing character: There is no ç in font cmex10!
+Missing character: There is no è in font cmex10!
+! Missing } inserted.
+<inserted text> 
+                }
+<*> e
+     nd
+? 
+! Extra \endgroup.
+<recently read> \endgroup 
+                          
+<*> e
+     nd
+? 
+Missing character: There is no n in font nullfont!
+Missing character: There is no d in font nullfont!
+
+*
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 2--0
+[]
+ []
+
+
+Overfull \hbox (37.2357pt too wide) in paragraph at lines 2--0
+[]\OML/cmm/m/it/10 inor\/cmr/m/n/10 " :
+ []
+
+
+Overfull \hbox (66.72112pt too wide) in paragraph at lines 2--0
+\/cmr/m/n/10 2\OML/cmm/m/it/10 ; \/cmr/m/n/10 "\OML/cmm/m/it/10 metadata\/cmr/m
+/n/10 " :
+ []
+
+
+Overfull \hbox (1636.80347pt too wide) in paragraph at lines 2--0
+[]\OML/cmm/m/it/10 ; \/cmr/m/n/10 "\OML/cmm/m/it/10 cells\/cmr/m/n/10 " :
+ []
+
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command 

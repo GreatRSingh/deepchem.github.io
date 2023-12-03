@@ -1,0 +1,1226 @@
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/Debian) (preloaded format=xelatex 2023.12.3)  3 DEC 2023 20:01
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**"/workspaces/deepchem.github.io/new-website/utils/tutorials/ipynb-notebooks/T
+he Basic Tools of the Deep Life Sciences"
+
+(/workspaces/deepchem.github.io/new-website/utils/tutorials/ipynb-notebooks/The
+ Basic Tools of the Deep Life Sciences
+LaTeX2e <2020-02-02> patch level 2
+L3 programming layer <2020-02-14>
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2  "
+      cells": [
+? 
+Missing character: There is no " in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no " in font nullfont!
+Missing character: There is no : in font nullfont!
+Missing character: There is no [ in font nullfont!
+Missing character: There is no " in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no l in font nullfont!
+! Missing $ inserted.
+<inserted text> 
+                $
+l.4    "cell_
+             type": "markdown",
+? 
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 4.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 4.
+! You can't use `macro parameter character #' in math mode.
+l.8      "name": "#
+                   %% md\n"
+? 
+! You can't use `macro parameter character #' in math mode.
+l.12     "#
+             The Basic Tools of the Deep Life Sciences\n",
+? 
+! Undefined control sequence.
+l.12 ...he Basic Tools of the Deep Life Sciences\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.13 ...do meaningful work in the life sciences.\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.14     "\n
+            ",
+? 
+! Undefined control sequence.
+l.15 ...uild systems for the deep life sciences.\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.16     "\n
+            ",
+? 
+! You can't use `macro parameter character #' in math mode.
+l.17     "#
+           # Colab\n",
+? 
+! You can't use `macro parameter character #' in math mode.
+l.17     "##
+             Colab\n",
+? 
+! Undefined control sequence.
+l.17     "## Colab\n
+                    ",
+? 
+! Undefined control sequence.
+l.18     "\n
+            ",
+? 
+! Undefined control sequence.
+l.19 ...n colab, you can use the following link.\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.20     "\n
+            ",
+? 
+! Undefined control sequence.
+l.21 ...c_Tools_of_the_Deep_Life_Sciences.ipynb)\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.22     "\n
+            ",
+? 
+! Undefined control sequence.
+l.23     "\n
+            ",
+? 
+! You can't use `macro parameter character #' in math mode.
+l.24     "#
+           # Why do the DeepChem Tutorial?\n",
+? 
+! You can't use `macro parameter character #' in math mode.
+l.24     "##
+             Why do the DeepChem Tutorial?\n",
+? 
+! Undefined control sequence.
+l.24     "## Why do the DeepChem Tutorial?\n
+                                            ",
+? 
+! Undefined control sequence.
+l.25     "\n
+            ",
+? 
+! Undefined control sequence.
+l.26 ...ing AI in the life sciences is a booming\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.27 ...of newly funded startups and initiatives\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.28 ...mpanies centered around AI. Learning and\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.29 ... to the forefront of this field and will\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.30 ...are you to enter a career in this field.\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.31     "\n
+            ",
+? 
+! Undefined control sequence.
+l.32 ...:** Disease is the oldest cause of human\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.33 ...on, humans have suffered from pathogens,\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.34 ...ons. One of the greatest achievements of\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.35 ... development of effective treatments for\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.36 ...ls in this tutorial, you will be able to\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.37 ...e giants of the past to help develop new\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.38     "medicine.\n
+                     ",
+? 
+! Undefined control sequence.
+l.39     "\n
+            ",
+? 
+! Undefined control sequence.
+l.40 ...** The art of developing new medicine is\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.41 ...y be practiced by a small core of expert\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.42 ...of open source tools for drug discovery,\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.43 ...kills and open up drug discovery to more\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.44 ...an help drive down the cost of medicine.\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.45     "\n
+            ",
+? 
+! You can't use `macro parameter character #' in math mode.
+l.46     "#
+           # Getting Extra Credit\n",
+? 
+! You can't use `macro parameter character #' in math mode.
+l.46     "##
+             Getting Extra Credit\n",
+? 
+! Undefined control sequence.
+l.46     "## Getting Extra Credit\n
+                                   ",
+? 
+! Undefined control sequence.
+l.47 ...e some things that you can do right now:\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.48     "\n
+            ",
+? 
+! Undefined control sequence.
+l.49 ...! - https://github.com/deepchem/deepchem\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.50 ...ce yourself! - https://forum.deepchem.io\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.51 ...itter - https://gitter.im/deepchem/Lobby\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.52 ... teaching the contents of this notebook.\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.53     "\n
+            ",
+? 
+! Undefined control sequence.
+l.54     "\n
+            ",
+? 
+! You can't use `macro parameter character #' in math mode.
+l.55     "#
+           # Prerequisites\n",
+? 
+! You can't use `macro parameter character #' in math mode.
+l.55     "##
+             Prerequisites\n",
+? 
+! Undefined control sequence.
+l.55     "## Prerequisites\n
+                            ",
+? 
+! Undefined control sequence.
+l.56     "\n
+            ",
+? 
+! Undefined control sequence.
+l.57 ... so don't worry if you're not an expert.\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.58     "\n
+            ",
+? 
+! You can't use `macro parameter character #' in math mode.
+l.59     "#
+           # Setup\n",
+? 
+! You can't use `macro parameter character #' in math mode.
+l.59     "##
+             Setup\n",
+? 
+! Undefined control sequence.
+l.59     "## Setup\n
+                    ",
+? 
+! Undefined control sequence.
+l.60     "\n
+            ",
+? 
+! Extra }, or forgotten $.
+l.63   }
+        ,
+? 
+! You can't use `macro parameter character #' in math mode.
+l.70      "name": "#
+                    %%\n"
+? 
+! Undefined control sequence.
+l.116     "import deepchem as dc\n
+                                  ",
+? 
+! Missing { inserted.
+<to be read again> 
+                   _
+l.117     "dc.__
+                version__"
+? 
+! Missing { inserted.
+<to be read again> 
+                   _
+l.117     "dc.__version__
+                         "
+? 
+! You can't use `macro parameter character #' in math mode.
+l.126     "#
+             Training a Model with DeepChem: A First Example\n",
+? 
+! Undefined control sequence.
+l.126 ... a Model with DeepChem: A First Example\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.127     "\n
+             ",
+? 
+! Undefined control sequence.
+l.128 ... Here are the typical steps you follow.\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.129     "\n
+             ",
+? 
+! Undefined control sequence.
+l.130 ... there isn't an existing suitable one).\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.131     "2. Create the model.\n
+                                 ",
+? 
+! Undefined control sequence.
+l.132     "3. Train the model on the data.\n
+                                            ",
+? 
+! Undefined control sequence.
+l.133 ...dent test set to see how well it works.\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.134 ...del to make predictions about new data.\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.135     "\n
+             ",
+? 
+! Undefined control sequence.
+l.136 ... solve a real world scientific problem.\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.137     "\n
+             ",
+? 
+! Undefined control sequence.
+l.149 ...et.load_delaney(featurizer='GraphConv')\n
+                                                  ",
+? 
+
+LaTeX Warning: Command \" invalid in math mode on input line 159.
+
+LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 1
+59.
+(/usr/share/texmf/tex/latex/lm/ot1lmr.fd
+File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+
+LaTeX Warning: Command \" invalid in math mode on input line 159.
+
+LaTeX Font Info:    Trying to load font information for +lmr on input line 159.
+
+LaTeX Font Info:    No file lmr.fd. on input line 159.
+LaTeX Font Info:    Trying to load font information for +cmr on input line 159.
+
+LaTeX Font Info:    No file cmr.fd. on input line 159.
+
+LaTeX Font Warning: Font shape `/lmr/m/n' undefined
+(Font)              using `/cmr/m/n' instead on input line 159.
+
+
+LaTeX Font Warning: Font shape `/cmr/m/n' undefined
+(Font)              using `/cmr/m/n' instead on input line 159.
+
+! Corrupted NFSS tables.
+wrong@fontshape ...message {Corrupted NFSS tables}
+                                                  error@fontshape else let f...
+l.159 ...or in more technical language, how to \"f
+                                                  eaturize\" the data.  Seco...
+
+? 
+
+LaTeX Font Warning: Font shape `/cmr/m/n' undefined
+(Font)              using `OT1/cmr/m/n' instead on input line 159.
+
+! Please use \mathaccent for accents in math mode.
+\add@accent ... \let \ignorespaces \relax \accent 
+                                                  #1 #2\egroup \spacefactor ...
+l.159 ...or in more technical language, how to \"f
+                                                  eaturize\" the data.  Seco...
+
+? 
+! Missing { inserted.
+<to be read again> 
+                   \edef 
+l.159 ...or in more technical language, how to \"f
+                                                  eaturize\" the data.  Seco...
+
+? 
+
+LaTeX Font Warning: Font shape `/lmr/m/n' undefined
+(Font)              using `/cmr/m/n' instead on input line 159.
+
+! You can't use `\spacefactor' in math mode.
+\add@accent ... \accent #1 #2\egroup \spacefactor 
+                                                  \accent@spacefactor 
+l.159 ...or in more technical language, how to \"f
+                                                  eaturize\" the data.  Seco...
+
+? 
+
+LaTeX Warning: Command \" invalid in math mode on input line 159.
+
+! Please use \mathaccent for accents in math mode.
+\add@accent ... \let \ignorespaces \relax \accent 
+                                                  #1 #2\egroup \spacefactor ...
+l.159 ...echnical language, how to \"featurize\" t
+                                                  he data.  Second, notice t...
+
+? 
+! You can't use `\spacefactor' in math mode.
+\add@accent ... \accent #1 #2\egroup \spacefactor 
+                                                  \accent@spacefactor 
+l.159 ...echnical language, how to \"featurize\" t
+                                                  he data.  Second, notice t...
+
+? 
+! Undefined control sequence.
+l.159 ...in the standard deep learning workflow.\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.160     "\n
+             ",
+? 
+
+LaTeX Warning: Command \" invalid in math mode on input line 161.
+
+! Please use \mathaccent for accents in math mode.
+\add@accent ... \let \ignorespaces \relax \accent 
+                                                  #1 #2\egroup \spacefactor ...
+l.161 ...e a particular kind of model called a \"g
+                                                  raph convolutional network...
+
+? 
+! You can't use `\spacefactor' in math mode.
+\add@accent ... \accent #1 #2\egroup \spacefactor 
+                                                  \accent@spacefactor 
+l.161 ...e a particular kind of model called a \"g
+                                                  raph convolutional network...
+
+? 
+
+LaTeX Warning: Command \" invalid in math mode on input line 161.
+
+! Please use \mathaccent for accents in math mode.
+\add@accent ... \let \ignorespaces \relax \accent 
+                                                  #1 #2\egroup \spacefactor ...
+l.161 ...called a \"graph convolutional network\",
+                                                   or \"graphconv\" for short."
+
+? 
+! You can't use `\spacefactor' in math mode.
+\add@accent ... \accent #1 #2\egroup \spacefactor 
+                                                  \accent@spacefactor 
+l.161 ...called a \"graph convolutional network\",
+                                                   or \"graphconv\" for short."
+
+? 
+
+LaTeX Warning: Command \" invalid in math mode on input line 161.
+
+! Please use \mathaccent for accents in math mode.
+\add@accent ... \let \ignorespaces \relax \accent 
+                                                  #1 #2\egroup \spacefactor ...
+l.161 ...a \"graph convolutional network\", or \"g
+                                                  raphconv\" for short."
+? 
+! You can't use `\spacefactor' in math mode.
+\add@accent ... \accent #1 #2\egroup \spacefactor 
+                                                  \accent@spacefactor 
+l.161 ...a \"graph convolutional network\", or \"g
+                                                  raphconv\" for short."
+? 
+
+LaTeX Warning: Command \" invalid in math mode on input line 161.
+
+! Please use \mathaccent for accents in math mode.
+\add@accent ... \let \ignorespaces \relax \accent 
+                                                  #1 #2\egroup \spacefactor ...
+l.161 ...nvolutional network\", or \"graphconv\" f
+                                                  or short."
+? 
+! You can't use `\spacefactor' in math mode.
+\add@accent ... \accent #1 #2\egroup \spacefactor 
+                                                  \accent@spacefactor 
+l.161 ...nvolutional network\", or \"graphconv\" f
+                                                  or short."
+? 
+! Undefined control sequence.
+l.181 ...r types of models provided by DeepChem.\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.182     "\n
+             ",
+? 
+! Undefined control sequence.
+l.221 ...'pearson_r2_score': 0.9323622956442351}\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.222 ...'pearson_r2_score': 0.6898768897014962}\n
+                                                  "
+? 
+! Undefined control sequence.
+l.227 ...ics.Metric(dc.metrics.pearson_r2_score)\n
+                                                  ",
+? 
+
+LaTeX Warning: Command \" invalid in math mode on input line 228.
+
+
+LaTeX Warning: Command \" invalid in math mode on input line 228.
+
+! Please use \mathaccent for accents in math mode.
+\add@accent ... \let \ignorespaces \relax \accent 
+                                                  #1 #2\egroup \spacefactor ...
+l.228     "print(\"T
+                    raining set score:\", model.evaluate(train_dataset, [met...
+
+? 
+! Missing { inserted.
+<to be read again> 
+                   \edef 
+l.228     "print(\"T
+                    raining set score:\", model.evaluate(train_dataset, [met...
+
+? 
+! You can't use `\spacefactor' in math mode.
+\add@accent ... \accent #1 #2\egroup \spacefactor 
+                                                  \accent@spacefactor 
+l.228     "print(\"T
+                    raining set score:\", model.evaluate(train_dataset, [met...
+
+? 
+
+LaTeX Warning: Command \" invalid in math mode on input line 228.
+
+! Please use \mathaccent for accents in math mode.
+\add@accent ... \let \ignorespaces \relax \accent 
+                                                  #1 #2\egroup \spacefactor ...
+l.228     "print(\"Training set score:\",
+                                          model.evaluate(train_dataset, [met...
+
+? 
+! You can't use `\spacefactor' in math mode.
+\add@accent ... \accent #1 #2\egroup \spacefactor 
+                                                  \accent@spacefactor 
+l.228     "print(\"Training set score:\",
+                                          model.evaluate(train_dataset, [met...
+
+? 
+! Undefined control sequence.
+l.228 ...train_dataset, [metric], transformers))\n
+                                                  ",
+? 
+
+LaTeX Warning: Command \" invalid in math mode on input line 229.
+
+! Please use \mathaccent for accents in math mode.
+\add@accent ... \let \ignorespaces \relax \accent 
+                                                  #1 #2\egroup \spacefactor ...
+l.229     "print(\"T
+                    est set score:\", model.evaluate(test_dataset, [metric],...
+
+? 
+! You can't use `\spacefactor' in math mode.
+\add@accent ... \accent #1 #2\egroup \spacefactor 
+                                                  \accent@spacefactor 
+l.229     "print(\"T
+                    est set score:\", model.evaluate(test_dataset, [metric],...
+
+? 
+
+LaTeX Warning: Command \" invalid in math mode on input line 229.
+
+! Please use \mathaccent for accents in math mode.
+\add@accent ... \let \ignorespaces \relax \accent 
+                                                  #1 #2\egroup \spacefactor ...
+l.229     "print(\"Test set score:\",
+                                      model.evaluate(test_dataset, [metric],...
+
+? 
+! You can't use `\spacefactor' in math mode.
+\add@accent ... \accent #1 #2\egroup \spacefactor 
+                                                  \accent@spacefactor 
+l.229     "print(\"Test set score:\",
+                                      model.evaluate(test_dataset, [metric],...
+
+? 
+
+LaTeX Warning: Command \" invalid in math mode on input line 238.
+
+
+LaTeX Warning: Command \" invalid in math mode on input line 238.
+
+! Please use \mathaccent for accents in math mode.
+\add@accent ... \let \ignorespaces \relax \accent 
+                                                  #1 #2\egroup \spacefactor ...
+l.238 ...but independent data.  This is called \"o
+                                                  verfitting\", and it is th...
+
+? 
+! Missing { inserted.
+<to be read again> 
+                   \edef 
+l.238 ...but independent data.  This is called \"o
+                                                  verfitting\", and it is th...
+
+? 
+! You can't use `\spacefactor' in math mode.
+\add@accent ... \accent #1 #2\egroup \spacefactor 
+                                                  \accent@spacefactor 
+l.238 ...but independent data.  This is called \"o
+                                                  verfitting\", and it is th...
+
+? 
+
+LaTeX Warning: Command \" invalid in math mode on input line 238.
+
+! Please use \mathaccent for accents in math mode.
+\add@accent ... \let \ignorespaces \relax \accent 
+                                                  #1 #2\egroup \spacefactor ...
+l.238 ...nt data.  This is called \"overfitting\",
+                                                   and it is the reason it i...
+
+? 
+! You can't use `\spacefactor' in math mode.
+\add@accent ... \accent #1 #2\egroup \spacefactor 
+                                                  \accent@spacefactor 
+l.238 ...nt data.  This is called \"overfitting\",
+                                                   and it is the reason it i...
+
+? 
+! Undefined control sequence.
+l.238 ... your model on an independent test set.\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.239     "\n
+             ",
+? 
+! Undefined control sequence.
+l.240 ...ns about other molecules we care about.\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.241     "\n
+             ",
+? 
+! Undefined control sequence.
+l.242 ...lubility). To put these predictions in \n
+                                                  ",
+? 
+! Undefined control sequence.
+l.261 ...-1.60114461] c1cc2ccc3cccc4ccc(c1)c2c34\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.262 ...8] [0.20848251] Cc1cc(=O)[nH]c(=S)[nH]1\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.263 ...ccc(cc1)C2(OC(=O)c3ccccc23)c4ccc(O)cc4 \n
+                                                  ",
+? 
+! Undefined control sequence.
+l.264 ...91713] c1ccc2c(c1)cc3ccc4cccc5ccc2c3c45\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.265 ...2314] [-0.52891635] C1=Cc2cccc3cccc1c23\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.266       "[1.8620405] [1.10168349] CC1CO1\n
+                                              ",
+? 
+! Undefined control sequence.
+l.267 ...987406] CCN2c1ccccc1N(C)C(=S)c3cccnc23 \n
+                                                  ",
+? 
+! Undefined control sequence.
+l.268 ...9706] CC12CCC3C(CCc4cc(O)ccc34)C2CCC1=O\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.269 ...c(c1ccccc1)c(=O)c(c2)c3cccc(c3)C(F)(F)F\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.270 ...)C(NC=O)N1C=CN(C=C1)C(NC=O)C(Cl)(Cl)Cl \n
+                                                  "
+? 
+! Undefined control sequence.
+l.275 ...l.predict_on_batch(test_dataset.X[:10])\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.276 ...set.ids, solubilities, test_dataset.y):\n
+                                                  ",
+? 
+! You can't use `macro parameter character #' in math mode.
+l.286     "#
+             Congratulations! Time to join the Community!\n",
+? 
+! Undefined control sequence.
+l.286 ...atulations! Time to join the Community!\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.287     "\n
+             ",
+? 
+! Undefined control sequence.
+l.288 ...epChem community in the following ways:\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.289     "\n
+             ",
+? 
+! You can't use `macro parameter character #' in math mode.
+l.290     "#
+            # Star DeepChem on [GitHub](https://github.com/deepchem/deepchem...
+
+? 
+! You can't use `macro parameter character #' in math mode.
+l.290     "##
+              Star DeepChem on [GitHub](https://github.com/deepchem/deepchem...
+
+? 
+! Undefined control sequence.
+l.290 ...](https://github.com/deepchem/deepchem)\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.291 ...g discovery that we're trying to build.\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.292     "\n
+             ",
+? 
+! You can't use `macro parameter character #' in math mode.
+l.293     "#
+            # Join the DeepChem Gitter\n",
+? 
+! You can't use `macro parameter character #' in math mode.
+l.293     "##
+              Join the DeepChem Gitter\n",
+? 
+! Undefined control sequence.
+l.293     "## Join the DeepChem Gitter\n
+                                        ",
+? 
+! You can't use `macro parameter character #' in math mode.
+l.300         "#
+                # Citing This Tutorial\n",
+? 
+! You can't use `macro parameter character #' in math mode.
+l.300         "##
+                  Citing This Tutorial\n",
+? 
+! Undefined control sequence.
+l.300         "## Citing This Tutorial\n
+                                        ",
+? 
+! Undefined control sequence.
+l.310         "@manual{Intro1, \n
+                                 ",
+? 
+! Undefined control sequence.
+l.311 ...asic Tools of the Deep Life Sciences}, \n
+                                                  ",
+? 
+! Undefined control sequence.
+l.312         " organization={DeepChem},\n
+                                          ",
+? 
+! Undefined control sequence.
+l.313         " author={Ramsundar, Bharath}, \n
+                                               ",
+? 
+! Undefined control sequence.
+l.314 ...ols_of_the_Deep_Life_Sciences.ipynb}}, \n
+                                                  ",
+? 
+! Undefined control sequence.
+l.315         " year={2021}, \n
+                               ",
+? 
+)
+*
+! Missing $ inserted.
+<inserted text> 
+                $
+<*> 
+    
+? 
+! Missing } inserted.
+<inserted text> 
+                }
+<*> 
+    
+? 
+! Missing } inserted.
+<inserted text> 
+                }
+<*> 
+    
+? 
+! Missing } inserted.
+<inserted text> 
+                }
+<*> 
+    
+? 
+! Missing } inserted.
+<inserted text> 
+                }
+<*> 
+    
+? 
+Missing character: There is no è in font cmex10!
+Missing character: There is no è in font cmex10!
+Missing character: There is no è in font cmex10!
+! \scriptfont 4 is undefined (character â).
+<recently read> $
+                 
+<*> 
+    
+? 
+Missing character: There is no è in font cmex10!
+Missing character: There is no è in font cmex10!
+Missing character: There is no ç in font cmex10!
+! \scriptfont 4 is undefined (character â).
+<recently read> $
+                 
+<*> 
+    
+? 
+Missing character: There is no ç in font cmex10!
+! \scriptfont 4 is undefined (character â).
+<recently read> $
+                 
+<*> 
+    
+? 
+Missing character: There is no è in font cmex10!
+! \scriptfont 4 is undefined (character â).
+<recently read> $
+                 
+<*> 
+    
+? 
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 2--0
+[]
+ []
+
+
+Overfull \hbox (29.02547pt too wide) in paragraph at lines 2--0
+[]\OML/cmm/m/it/10 ype\/lmr/m/n/10 " :
+ []
+
+
+Overfull \hbox (119.58006pt too wide) in paragraph at lines 2--0
+\/lmr/m/n/10 "\OML/cmm/m/it/10 markdown\/lmr/m/n/10 "\OML/cmm/m/it/10 ; \/lmr/m
+/n/10 "\OML/cmm/m/it/10 metadata\/lmr/m/n/10 " :
+ []
+
+
+Overfull \hbox (260.93825pt too wide) in paragraph at lines 2--0
+[]\OML/cmm/m/it/10 ; \/lmr/m/n/10 "\OML/cmm/m/it/10 source\/lmr/m/n/10 " :
+ []
+
+
+Overfull \hbox (643.46147pt too wide) in paragraph at lines 2--0
+\/lmr/m/n/10 ["\OML/cmm/m/it/10 TheBasicToolsoftheDeepLifeSciences\/lmr/m/n/10 
+"\OML/cmm/m/it/10 ; \/lmr/m/n/10 "\OML/cmm/m/it/10 WelcometoDeepChem[]sintroduc
+torytutorialforthedeeplifesciences:Thisseriesofnotebooksisastep \OMS/cmsy/m/n/1
+0 ^^@
+ []
+
+
+Overfull \hbox (17.33105pt too wide) in paragraph at lines 2--0
+\OML/cmm/m/it/10 by \OMS/cmsy/m/n/10 ^^@
+ []
+
+
+Overfull \hbox (1307.2807pt too wide) in paragraph at lines 2--0
+\OML/cmm/m/it/10 stepguideforyoutogettoknowthenewtoolsandtechniquesneededtodode
+eplearningforthelifesciences:We[]llstartfromthebasics; assumingthatyou[]renewto
+machinelearningandthelifesciences; andbuilduparepertoireoftoolsandtechniquestha
+tyoucanusetodomeaningfulworkinthelifesciences:\/lmr/m/n/10 "\OML/cmm/m/it/10 ; 
+\/lmr/m/n/10 ""\OML/cmm/m/it/10 ; \/lmr/m/n/10 " \OMS/cmsy/m/n/10 ^^C
+ []
+
+
+Overfull \hbox (36.12613pt too wide) in paragraph at lines 2--0
+\OMS/cmsy/m/n/10 ^^C\OML/cmm/m/it/10 Scope \/lmr/m/n/10 :
+ []
+
+
+Overfull \hbox (10.00003pt too wide) in paragraph at lines 2--0
+\OMS/cmsy/m/n/10 ^^C ^^C
+ []
+
+
+Overfull \hbox (1351.40352pt too wide) in paragraph at lines 2--0
+\OML/cmm/m/it/10 Thistutorialwillencompassboththemachinelearninganddatahandling
+neededtobuildsystemsforthedeeplifesciences:\/lmr/m/n/10 "\OML/cmm/m/it/10 ; \/l
+mr/m/n/10 ""\OML/cmm/m/it/10 ; \/lmr/m/n/10 "\OML/cmm/m/it/10 Colab\/lmr/m/n/10
+ "\OML/cmm/m/it/10 ; \/lmr/m/n/10 ""\OML/cmm/m/it/10 ; \/lmr/m/n/10 "\OML/cmm/m
+/it/10 ThistutorialandtherestinthesequencesaredesignedtobedoneinGooglecolab:Ify
+ou[]dliketoopenthisnotebookincolab; youcanusethefollowinglink:\/lmr/m/n/10 "\OM
+L/cmm/m/it/10 ; \/lmr/m/n/10 ""\OML/cmm/m/it/10 ; \/lmr/m/n/10 "[![\OML/cmm/m/i
+t/10 OpenInColab\/lmr/m/n/10 ](\OML/cmm/m/it/10 https \/lmr/m/n/10 :
+ []
+
+
+Overfull \hbox (192.28975pt too wide) in paragraph at lines 2--0
+\OML/cmm/m/it/10 ==colab:research:google:com=assets=colab \OMS/cmsy/m/n/10 ^^@
+ []
+
+
+Overfull \hbox (81.18054pt too wide) in paragraph at lines 2--0
+\OML/cmm/m/it/10 badge:svg\/lmr/m/n/10 )](\OML/cmm/m/it/10 https \/lmr/m/n/10 :
+
+ []
+
+
+Overfull \hbox (824.3063pt too wide) in paragraph at lines 2--0
+\OML/cmm/m/it/10 ==colab:research:google:com=github=deepchem=deepchem=blob=mast
+er=examples=tutorials=The[]asic[]ools[]f[]he[]eep[]ife[]ciences:ipynb\/lmr/m/n/
+10 )"\OML/cmm/m/it/10 ; \/lmr/m/n/10 ""\OML/cmm/m/it/10 ; \/lmr/m/n/10 ""\OML/c
+mm/m/it/10 ; \/lmr/m/n/10 "\OML/cmm/m/it/10 WhydotheDeepChemTutorial\/lmr/m/n/1
+0 ?"\OML/cmm/m/it/10 ; \/lmr/m/n/10 ""\OML/cmm/m/it/10 ; \/lmr/m/n/10 " \OMS/cm
+sy/m/n/10 ^^C
+ []
+
+
+Overfull \hbox (112.71689pt too wide) in paragraph at lines 2--0
+\OMS/cmsy/m/n/10 ^^C\/lmr/m/n/10 1)\OML/cmm/m/it/10 CareerAdvancement \/lmr/m/n
+/10 :
+ []
+
+
+Overfull \hbox (10.00003pt too wide) in paragraph at lines 2--0
+\OMS/cmsy/m/n/10 ^^C ^^C
+ []
+
+
+Overfull \hbox (1407.47972pt too wide) in paragraph at lines 2--0
+\OML/cmm/m/it/10 ApplyingAIinthelifesciencesisabooming\/lmr/m/n/10 "\OML/cmm/m/
+it/10 ; \/lmr/m/n/10 "\OML/cmm/m/it/10 industryatpresent:Thereareahostofnewlyfu
+ndedstartupsandinitiatives\/lmr/m/n/10 "\OML/cmm/m/it/10 ; \/lmr/m/n/10 "\OML/c
+mm/m/it/10 atlargepharmaceuticalandbiotechcompaniescenteredaroundAI:Learningand
+\/lmr/m/n/10 "\OML/cmm/m/it/10 ; \/lmr/m/n/10 "\OML/cmm/m/it/10 masteringDeepCh
+emwillbringyoutotheforefrontofthisfieldandwill\/lmr/m/n/10 "\OML/cmm/m/it/10 ; 
+\/lmr/m/n/10 "\OML/cmm/m/it/10 prepareyoutoenteracareerinthisfield:\/lmr/m/n/10
+ "\OML/cmm/m/it/10 ; \/lmr/m/n/10 ""\OML/cmm/m/it/10 ; \/lmr/m/n/10 " \OMS/cmsy
+/m/n/10 ^^C
+ []
+
+
+Overfull \hbox (155.60162pt too wide) in paragraph at lines 2--0
+\OMS/cmsy/m/n/10 ^^C\/lmr/m/n/10 2)\OML/cmm/m/it/10 HumanitarianConsiderations 
+\/lmr/m/n/10 :
+ []
+
+
+Overfull \hbox (10.00003pt too wide) in paragraph at lines 2--0
+\OMS/cmsy/m/n/10 ^^C ^^C
+ []
+
+
+Overfull \hbox (1888.9607pt too wide) in paragraph at lines 2--0
+\OML/cmm/m/it/10 Diseaseistheoldestcauseofhuman\/lmr/m/n/10 "\OML/cmm/m/it/10 ;
+ \/lmr/m/n/10 "\OML/cmm/m/it/10 suffering:Fromthedawnofhumancivilization; human
+shavesufferedfrompathogens; \/lmr/m/n/10 "\OML/cmm/m/it/10 ; \/lmr/m/n/10 "\OML
+/cmm/m/it/10 cancers; andneurologicalconditions:Oneofthegreatestachievementsof\
+/lmr/m/n/10 "\OML/cmm/m/it/10 ; \/lmr/m/n/10 "\OML/cmm/m/it/10 thelastfewcentur
+ieshasbeenthedevelopmentofeffectivetreatmentsfor\/lmr/m/n/10 "\OML/cmm/m/it/10 
+; \/lmr/m/n/10 "\OML/cmm/m/it/10 manydiseases:Bymasteringtheskillsinthistutoria
+l; youwillbeableto\/lmr/m/n/10 "\OML/cmm/m/it/10 ; \/lmr/m/n/10 "\OML/cmm/m/it/
+10 standontheshouldersofthegiantsofthepasttohelpdevelopnew\/lmr/m/n/10 "\OML/cm
+m/m/it/10 ; \/lmr/m/n/10 "\OML/cmm/m/it/10 medicine:\/lmr/m/n/10 "\OML/cmm/m/it
+/10 ; \/lmr/m/n/10 ""\OML/cmm/m/it/10 ; \/lmr/m/n/10 " \OMS/cmsy/m/n/10 ^^C
+ []
+
+
+Overfull \hbox (150.93306pt too wide) in paragraph at lines 2--0
+\OMS/cmsy/m/n/10 ^^C\/lmr/m/n/10 3)\OML/cmm/m/it/10 LoweringtheCostofMedicine \
+/lmr/m/n/10 :
+ []
+
+
+Overfull \hbox (10.00003pt too wide) in paragraph at lines 2--0
+\OMS/cmsy/m/n/10 ^^C ^^C
+ []
+
+
+Overfull \hbox (2047.12564pt too wide) in paragraph at lines 2--0
+\OML/cmm/m/it/10 Theartofdevelopingnewmedicineis\/lmr/m/n/10 "\OML/cmm/m/it/10 
+; \/lmr/m/n/10 "\OML/cmm/m/it/10 currentlyaneliteskillthatcanonlybepracticedbya
+smallcoreofexpert\/lmr/m/n/10 "\OML/cmm/m/it/10 ; \/lmr/m/n/10 "\OML/cmm/m/it/1
+0 practitioners:Byenablingthegrowthofopensourcetoolsfordrugdiscovery; \/lmr/m/n
+/10 "\OML/cmm/m/it/10 ; \/lmr/m/n/10 "\OML/cmm/m/it/10 youcanhelpdemocratizethe
+seskillsandopenupdrugdiscoverytomore\/lmr/m/n/10 "\OML/cmm/m/it/10 ; \/lmr/m/n/
+10 "\OML/cmm/m/it/10 competition:Increasedcompetitioncanhelpdrivedownthecostofm
+edicine:\/lmr/m/n/10 "\OML/cmm/m/it/10 ; \/lmr/m/n/10 ""\OML/cmm/m/it/10 ; \/lm
+r/m/n/10 "\OML/cmm/m/it/10 GettingExtraCredit\/lmr/m/n/10 "\OML/cmm/m/it/10 ; \
+/lmr/m/n/10 "\OML/cmm/m/it/10 Ifyou[]reexcitedaboutDeepChemandwanttogetmoreinvo
+lved; therearesomethingsthatyoucandorightnow \/lmr/m/n/10 :
+ []
+
+
+Overfull \hbox (33.8889pt too wide) in paragraph at lines 2--0
+\/lmr/m/n/10 "\OML/cmm/m/it/10 ; \/lmr/m/n/10 ""\OML/cmm/m/it/10 ; \/lmr/m/n/10
+ " \OMS/cmsy/m/n/10 ^^C
+ []
+
+
+Overfull \hbox (125.82098pt too wide) in paragraph at lines 2--0
+\OML/cmm/m/it/10 StarDeepChemonGitHub\/lmr/m/n/10 ! \OMS/cmsy/m/n/10 ^^@
+ []
+
+
+Overfull \hbox (28.25806pt too wide) in paragraph at lines 2--0
+\OML/cmm/m/it/10 https \/lmr/m/n/10 :
+ []
+
+
+Overfull \hbox (174.28813pt too wide) in paragraph at lines 2--0
+\OML/cmm/m/it/10 ==github:com=deepchem=deepchem\/lmr/m/n/10 "\OML/cmm/m/it/10 ;
+ \/lmr/m/n/10 " \OMS/cmsy/m/n/10 ^^C
+ []
+
+
+Overfull \hbox (228.3694pt too wide) in paragraph at lines 2--0
+\OML/cmm/m/it/10 JointheDeepChemforumsandintroduceyourself\/lmr/m/n/10 ! \OMS/c
+msy/m/n/10 ^^@
+ []
+
+
+Overfull \hbox (28.25806pt too wide) in paragraph at lines 2--0
+\OML/cmm/m/it/10 https \/lmr/m/n/10 :
+ []
+
+
+Overfull \hbox (116.48018pt too wide) in paragraph at lines 2--0
+\OML/cmm/m/it/10 ==forum:deepchem:io\/lmr/m/n/10 "\OML/cmm/m/it/10 ; \/lmr/m/n/
+10 " \OMS/cmsy/m/n/10 ^^C
+ []
+
+
+Overfull \hbox (134.3215pt too wide) in paragraph at lines 2--0
+\OML/cmm/m/it/10 SayhiontheDeepChemgitter \OMS/cmsy/m/n/10 ^^@
+ []
+
+
+Overfull \hbox (28.25806pt too wide) in paragraph at lines 2--0
+\OML/cmm/m/it/10 https \/lmr/m/n/10 :
+ []
+
+
+Overfull \hbox (147.70537pt too wide) in paragraph at lines 2--0
+\OML/cmm/m/it/10 ==gitter:im=deepchem=Lobby\/lmr/m/n/10 "\OML/cmm/m/it/10 ; \/l
+mr/m/n/10 " \OMS/cmsy/m/n/10 ^^C
+ []
+
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*y
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+<*> y
+     
+? 
+Missing character: There is no y in font nullfont!
+
+*
+
+Overfull \hbox (20.0pt too wide) detected at line 0
+[] 
+ []
+
+(Please type a command or say `\end')
+*y
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+<*> y
+     
+? yy
+Type <return> to proceed, S to scroll future error messages,
+R to run without stopping, Q to run quietly,
+I to insert something, 
+1 or ... or 9 to ignore the next 1 to 9 tokens of input,
+H for help, X to quit.
+? yes
+Type <return> to proceed, S to scroll future error messages,
+R to run without stopping, Q to run quietly,
+I to insert something, 
+1 or ... or 9 to ignore the next 1 to 9 tokens of input,
+H for help, X to quit.
+? X
+ 
+Here is how much of TeX's memory you used:
+ 70 strings out of 481804
+ 1708 string characters out of 5937876
+ 289488 words of memory out of 5000000
+ 17156 multiletter control sequences out of 15000+600000
+ 535281 words of font info for 25 fonts, out of 8000000 for 9000
+ 14 hyphenation exceptions out of 8191
+ 18i,10n,16p,868b,129s stack positions out of 5000i,500n,10000p,200000b,80000s
+No pages of output.
